@@ -23,7 +23,7 @@ Drought has long posed an existential threat to society. Engineering and technol
 - Water quality data. Texes Commision on Environmental Quality. https://www80.tceq.texas.gov/SwqmisPublic/index.htm
 
 ## Software 
-This study processes and plots data using standard Python packages that come with Python installation (numpy, matplotlib, pandas). 
+This study processes and plots data using Python packages that come with the standard Python installation (numpy, matplotlib, pandas). 
 
 ## Reproduce my Figures 
 1. Download files in 'Data' folder.
