@@ -15,6 +15,7 @@ Drought has long posed an existential threat to society. Engineering and technol
 - Population. https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html
 - Crop sales and production. United States Department of Agriculture. https://quickstats.nass.usda.gov/#836E5317-4EEB-334A-B495-B9550A9D38DD
 - Cattle sales and heard size. United States Department of Agriculture. https://quickstats.nass.usda.gov/#57FD7FD5-6226-38B9-A6CE-2FBC12D0C042
+- GDP and Employment. https://apps.bea.gov/itable/?ReqID=70&step=1&acrdn=5#eyJhcHBpZCI6NzAsInN0ZXBzIjpbMSwyNCwyOV0sImRhdGEiOltbIlRhYmxlSWQiLCI1MzMiXSxbIkNsYXNzaWZpY2F0aW9uIiwiTm9uLUluZHVzdHJ5Il1dfQ==
 - Drought monitor drought classification. https://droughtmonitor.unl.edu/DmData/DataDownload/DSCI.aspx
 - Reservoir storage. https://waterdatafortexas.org/reservoirs/region
 - Power plant data. Energy Information Administration. https://atlas.eia.gov/datasets/eia::power-plants/explore?location=31.615311%2C-95.181236%2C5.99
