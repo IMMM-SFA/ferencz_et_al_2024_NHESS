@@ -22,6 +22,22 @@ Drought has long posed an existential threat to society. Engineering and technol
 - Streamflow data. United States Geological Survery. https://dashboard.waterdata.usgs.gov/app/nwd/en/?region=lower48&aoi=default
 - Water quality data. Texes Commision on Environmental Quality. https://www80.tceq.texas.gov/SwqmisPublic/index.htm
 
+## Software 
+This study processes and plots data using standard Python packages that come with Python installation (numpy, matplotlib, pandas). 
+
 ## Reproduce my Figures 
+1. Download files in 'Data' folder.
+2. Download plotting scripts in 'Plotting Scripts' folder. 
+
+- Figure 1:
+- Figure 2:
+- Figure 3:
+- Figure 4:
+- Figure 5:
+- Figure 6:
+- Figure 7:
+- Figure 8:
+- Figure 9: 
+
 
 
