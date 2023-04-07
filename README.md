@@ -19,6 +19,7 @@ Drought has long posed an existential threat to society. Engineering and technol
 - Reservoir storage. https://waterdatafortexas.org/reservoirs/region
 - Power plant data. Energy Information Administration. https://atlas.eia.gov/datasets/eia::power-plants/explore?location=31.615311%2C-95.181236%2C5.99
 - Regional Water Plans. https://www.twdb.texas.gov/waterplanning/rwp/plans/
+- USGS Gage Data. https://dashboard.waterdata.usgs.gov/app/nwd/en/?region=lower48&aoi=default
 
 ## Reproduce my Figures 
 
