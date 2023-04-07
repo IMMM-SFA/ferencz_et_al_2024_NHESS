@@ -10,15 +10,15 @@ Drought has long posed an existential threat to society. Engineering and technol
 
 ## Data 
 - Public Water Supply Restrictions. https://www.tceq.texas.gov/drinkingwater/trot/droughtw.html
-- Annual groundwater well installation data. Texas Water Development Board. https://www3.twdb.texas.gov/apps/reports/SDR/WellRpts_County_Use
+- Groundwater well installation data. Texas Water Development Board. https://www3.twdb.texas.gov/apps/reports/SDR/WellRpts_County_Use
 - Sectoral water use estimates. Texas Water Development Board. https://www.twdb.texas.gov/waterplanning/waterusesurvey/estimates/index.asp
 - Population. https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html
-- Annual crop sales and production. United States Department of Agriculture. https://quickstats.nass.usda.gov/#836E5317-4EEB-334A-B495-B9550A9D38DD
-- Annual cattle sales and heard size. United States Department of Agriculture. https://quickstats.nass.usda.gov/#57FD7FD5-6226-38B9-A6CE-2FBC12D0C042
+- Crop sales and production. United States Department of Agriculture. https://quickstats.nass.usda.gov/#836E5317-4EEB-334A-B495-B9550A9D38DD
+- Cattle sales and heard size. United States Department of Agriculture. https://quickstats.nass.usda.gov/#57FD7FD5-6226-38B9-A6CE-2FBC12D0C042
 - Drought monitor drought classification. https://droughtmonitor.unl.edu/DmData/DataDownload/DSCI.aspx
 - Reservoir storage. https://waterdatafortexas.org/reservoirs/region
-- Power plant data. Energy Information Administration. 
-- Regional Water Plans. 
+- Power plant data. Energy Information Administration. https://atlas.eia.gov/datasets/eia::power-plants/explore?location=31.615311%2C-95.181236%2C5.99
+- Regional Water Plans. https://www.twdb.texas.gov/waterplanning/rwp/plans/
 
 ## Reproduce my Figures 
 
