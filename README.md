@@ -25,6 +25,7 @@ Drought has long posed an existential threat to society. Engineering and technol
 
 ## Software 
 This study processes and plots data using Python packages that come with the standard Python installation (numpy, matplotlib, pandas). 
+Maps were made in QGIS https://www.qgis.org/en/site/. 
 
 ## Reproduce my Figures 
 1. Download files in 'Data' folder.
