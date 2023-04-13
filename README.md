@@ -22,6 +22,7 @@ Drought has long posed an existential threat to society. Engineering and technol
 - Regional Water Plans. https://www.twdb.texas.gov/waterplanning/rwp/plans/
 - Streamflow data. United States Geological Survery. https://dashboard.waterdata.usgs.gov/app/nwd/en/?region=lower48&aoi=default
 - Water quality data. Texes Commision on Environmental Quality. https://www80.tceq.texas.gov/SwqmisPublic/index.htm
+- Groundwater well hydrographs. https://www3.twdb.texas.gov/apps/reports/GWDB/WaterLevelsByWell
 
 ## Software 
 This study processes and plots data using Python packages that come with the standard Python installation (numpy, matplotlib, pandas). 
