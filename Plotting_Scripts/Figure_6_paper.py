@@ -14,7 +14,7 @@ import os
 import matplotlib.dates as mdates
 
 
-os.chdir("C:/Users/fere556/OneDrive - PNNL/Documents/ERCOT/Retrospective_analysis/Discharge_and_water_quality_data")
+os.chdir("Path to data")
 
 # Import processed daily average flow data 
 San_saba_D = pd.read_csv('San_saba_daily.csv', index_col  = 0)
