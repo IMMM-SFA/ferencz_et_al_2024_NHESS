@@ -1,0 +1,1186 @@
+﻿Region,Year,Use,Type,Type_Category,Source,Volume,First Decade Cost,Last Decade Cost,2022_Cost
+K,2011,Irr,Expand GW,Groundwater,GW,31,,,
+K,2011,Irr,Develop GW,Groundwater,GW,4886,,,
+K,2011,Irr,Conservation,Conservation,Conservation,4715,,,
+K,2011,Irr,Conservation,Conservation,Conservation,8282,,,
+K,2011,Irr,Conservation,Conservation,Conservation,4548,,,
+K,2011,Irr,Interuptable,Interuptable,SW,10542,,,
+K,2011,Irr,Austin_return_flows,Return_flows,SW,1143,,,
+K,2011,Irr,Develop GW,Groundwater,GW,9920,,,
+K,2011,Irr,Conservation,Conservation,Conservation,9405,,,
+K,2011,Irr,Conservation,Conservation,Conservation,14056,,,
+K,2011,Irr,Conservation,Conservation,Conservation,10181,,,
+K,2011,Irr,Interuptable,Interuptable,SW,9265,,,
+K,2011,Irr,Austin_return_flows,Return_flows,SW,2321,,,
+K,2011,Irr,Return_flows,Return_flows,SW,56,,,
+K,2011,Irr,Conservation,Conservation,Conservation,2848,,,
+K,2011,Irr,Develop GW,Groundwater,GW,14437,,,
+K,2011,Irr,Conservation,Conservation,Conservation,6107,,,
+K,2011,Irr,Conservation,Conservation,Conservation,3661,,,
+K,2011,Irr,Interuptable,Interuptable,SW,25847,,,
+K,2011,Irr,Austin_return_flows,Return_flows,SW,11357,,,
+K,2011,Irr,Return_flows,Return_flows,SW,351,,,
+K,2011,Irr,Develop GW,Groundwater,GW,1473,,,
+K,2011,Irr,Conservation,Conservation,Conservation,502,,,
+K,2011,Irr,Conservation,Conservation,Conservation,2983,,,
+K,2011,Irr,Conservation,Conservation,Conservation,486,,,
+K,2011,Irr,Interuptable,Interuptable,SW,5078,,,
+K,2011,Irr,Austin_return_flows,Return_flows,SW,1857,,,
+K,2011,Irr,Return_flows,Return_flows,SW,75,,,
+K,2011,Irr,Conservation,Conservation,Conservation,13553,,,
+K,2011,Irr,Conservation,Conservation,Conservation,3617,,,
+K,2011,Irr,Conservation,Conservation,Conservation,6160,,,
+K,2011,Irr,Conservation,Conservation,Conservation,4468,,,
+K,2011,Irr,Interuptable,Interuptable,SW,22306,,,
+K,2011,Irr,Austin_return_flows,Return_flows,SW,10862,,,
+K,2011,Irr,Return_flows,Return_flows,SW,335,,,
+K,2011,Irr,Expand GW,Groundwater,GW,177,,,
+K,2011,Irr,Develop GW,Groundwater,GW,12776,,,
+K,2011,Irr,Conservation,Conservation,Conservation,8803,,,
+K,2011,Irr,Conservation,Conservation,Conservation,16303,,,
+K,2011,Irr,Conservation,Conservation,Conservation,13293,,,
+K,2011,Irr,Interuptable,Interuptable,SW,3658,,,
+K,2011,Irr,Austin_return_flows,Return_flows,SW,174,,,
+K,2011,Irr,Conservation,Conservation,Conservation,3600,,,
+K,2011,Irr,Expand GW,Groundwater,GW,532,,,
+K,2011,Irr,Conservation,Conservation,Conservation,150,,,
+K,2011,Irr,Conservation,Conservation,Conservation,2518,,,
+K,2011,Irr,Conservation,Conservation,Conservation,144,,,
+K,2011,Irr,Interuptable,Interuptable,SW,152,,,
+K,2011,Irr,Conservation,Conservation,Conservation,200,,,
+K,2011,Irr,Expand GW,Groundwater,GW,4433,,,
+K,2011,Irr,Conservation,Conservation,Conservation,4110,,,
+K,2011,Irr,Conservation,Conservation,Conservation,8591,,,
+K,2011,Irr,Conservation,Conservation,Conservation,4019,,,
+K,2011,Irr,Interuptable,Interuptable,SW,1870,,,
+K,2011,Irr,Austin_return_flows,Return_flows,SW,60,,,
+K,2011,Irr,Conservation,Conservation,Conservation,200,,,
+F,2011,Mun,Brush control,Brush control,Brush control,8632,,,nan
+F,2011,Mun,Conservation,Conservation,Conservation,265,,,nan
+F,2011,Mun,Conservation,Conservation,Conservation,50,,,nan
+F,2011,Mun,Conservation,Conservation,Conservation,46,,,nan
+F,2011,Mun,Conservation,Conservation,Conservation,95,,,nan
+K,2011,Power_Steam_Elec,LCRA_contract,SW contract,SW,26885,138,,190
+K,2011,Power_Steam_Elec,LCRA_contract,SW contract,SW,30000,138,,190
+K,2011,Power_Steam_Elec,Reuse,Reuse,Reuse,13315,851,,1174
+F,2011,Mun,Conservation,Conservation,Conservation,1657,,,nan
+F,2011,Mun,Conservation,Conservation,Conservation,698,,,nan
+F,2011,Mun,Conservation,Conservation,Conservation,222,,,nan
+F,2011,Mun,Conservation,Conservation,Conservation,30,,,nan
+F,2011,Mun,Conservation,Conservation,Conservation,3261,,,nan
+F,2011,Mun,Conservation,Conservation,Conservation,58,,,nan
+F,2011,Mun,Conservation,Conservation,Conservation,119,,,nan
+F,2011,Mun,Conservation,Conservation,Conservation,67,,,nan
+F,2011,Mun,Conservation,Conservation,Conservation,205,,,nan
+F,2011,Mun,Conservation,Conservation,Conservation,2127,,,nan
+F,2011,Mun,Desal,Desal,Treatment,950,1163,546,1605
+F,2011,Mun,Desal,Desal,Treatment,5600,,,nan
+F,2011,Mun,Desal,Desal,Treatment,9500,,,nan
+F,2011,Mun,Develop GW,Groundwater,GW,140,,,nan
+F,2011,Mun,Develop GW,Groundwater,GW,20,,,nan
+F,2011,Mun,Develop GW,Groundwater,GW,13600,,,nan
+F,2011,Mun,Develop GW,Groundwater,GW,2200,,,nan
+F,2011,Mun,Develop GW,Groundwater,GW,12000,,,nan
+F,2011,Mun,Develop GW,Groundwater,GW,6000,,,nan
+F,2011,Mun,Infrastructure,Infrastructure,Infrastructure ,200,,,nan
+F,2011,Mun,Infrastructure,Infrastructure,Infrastructure ,2627,,,nan
+F,2011,Mun,Reuse,Reuse,Reuse,3912,,,nan
+F,2011,Power_Steam_Elec,Subordination,Subordination,SW,401,,,nan
+F,2011,Power_Steam_Elec,Subordination,Subordination,SW,4493,,,nan
+F,2011,Power_Steam_Elec,Subordination,Subordination,SW,1021,,,nan
+F,2011,Mun,Reuse,Reuse,Reuse,1855,,,nan
+F,2011,Mun,Reuse,Reuse,Reuse,5389,,,nan
+F,2011,Mun,Reuse,Reuse,Reuse,148,,,nan
+F,2011,Mun,Reuse,Reuse,Reuse,110,,,nan
+F,2011,Mun,Reuse ,Reuse,Reuse,726,,,nan
+F,2011,Mun,Subordination,Subordination,SW,129,,,nan
+F,2011,Mun,Subordination,Subordination,SW,34,,,nan
+F,2011,Mun,Subordination,Subordination,SW,9,,,nan
+F,2011,Mun,Subordination,Subordination,SW,1645,,,nan
+F,2011,Mun,Subordination,Subordination,SW,380,,,nan
+F,2011,Mun,Subordination,Subordination,SW,103,,,nan
+F,2011,Mun,Subordination,Subordination,SW,18,,,nan
+F,2011,Mun,Subordination,Subordination,SW,25,,,nan
+F,2011,Mun,Subordination,Subordination,SW,151,,,nan
+F,2011,Mun,Subordination,Subordination,SW,1085,,,nan
+F,2011,Mun,Subordination,Subordination,SW,299,,,nan
+F,2011,Mun,Subordination,Subordination,SW,11,,,nan
+F,2011,Mun,Subordination,Subordination,SW,991,,,nan
+F,2011,Mun,Subordination,Subordination,SW,9,,,nan
+F,2011,Mun,Subordination,Subordination,SW,2170,,,nan
+F,2011,Mun,Subordination,Subordination,SW,14,,,nan
+F,2011,Mun,Subordination,Subordination,SW,438,,,nan
+F,2011,Mun,Subordination,Subordination,SW,66,,,nan
+F,2011,Mun,Subordination,Subordination,SW,910,,,nan
+F,2011,Mun,Subordination,Subordination,SW,115,,,nan
+F,2011,Mun,Subordination,Subordination,SW,48,,,nan
+F,2011,Mun,Subordination,Subordination,SW,23,,,nan
+F,2011,Mun,Subordination,Subordination,SW,49,,,nan
+F,2011,Mun,Subordination,Subordination,SW,116,,,nan
+F,2011,Mun,Subordination,Subordination,SW,200,,,nan
+F,2011,Mun,Subordination,Subordination,SW,31,,,nan
+F,2011,Mun,Subordination,Subordination,SW,571,,,nan
+F,2011,Mun,Subordination,Subordination,SW,12,,,nan
+F,2011,Mun,Subordination,Subordination,SW,117,,,nan
+F,2011,Mun,Subordination,Subordination,SW,250,,,nan
+F,2011,Mun,Subordination,Subordination,SW,87,,,nan
+F,2011,Mun,Subordination,Subordination,SW,4431,,,nan
+F,2011,Mun,Subordination,Subordination,SW,3282,,,nan
+F,2011,Mun,Subordination,Subordination,SW,43347,,,nan
+F,2011,Mun,Voluntary_trans,Voluntary transfer,SW,10507,,,nan
+F,2011,Mun,Voluntary_trans,Voluntary transfer,SW,430,,,nan
+F,2011,Mun,Voluntary_trans,Voluntary transfer,SW,9600,,,nan
+F,2011,Mun,Voluntary_trans,Voluntary transfer,SW,201,,,nan
+F,2011,Mun,Voluntary_trans,Voluntary transfer,SW,92,,,nan
+K,2011,Irr,Conservation,Conservation,Conservation,645,172,,237
+K,2011,Irr,Conservation,Conservation,Conservation,3600,13,,18
+K,2011,Irr,Conservation,Conservation,Conservation,200,13,,18
+K,2011,Irr,Conservation,Conservation,Conservation,200,13,,18
+F,2011,Irr,Conservation,Conservation,Conservation,5455,,,nan
+F,2011,Irr,Conservation,Conservation,Conservation,189,,,nan
+F,2011,Irr,Conservation,Conservation,Conservation,271,,,nan
+F,2011,Irr,Conservation,Conservation,Conservation,185,,,nan
+F,2011,Irr,Conservation,Conservation,Conservation,1496,,,nan
+F,2011,Irr,Conservation,Conservation,Conservation,485,,,nan
+F,2011,Irr,Conservation,Conservation,Conservation,7262,,,nan
+F,2011,Irr,Conservation,Conservation,Conservation,653,,,nan
+F,2011,Irr,Conservation,Conservation,Conservation,73,,,nan
+F,2011,Irr,Conservation,Conservation,Conservation,147,,,nan
+F,2011,Irr,Conservation,Conservation,Conservation,3502,,,nan
+F,2011,Irr,Conservation,Conservation,Conservation,1491,,,nan
+F,2011,Irr,Conservation,Conservation,Conservation,394,,,nan
+F,2011,Irr,Conservation,Conservation,Conservation,46,,,nan
+F,2011,Irr,Conservation,Conservation,Conservation,3600,,,nan
+F,2011,Irr,Conservation,Conservation,Conservation,1729,,,nan
+F,2011,Irr,Conservation,Conservation,Conservation,3936,,,nan
+F,2011,Irr,Conservation,Conservation,Conservation,178,,,nan
+F,2011,Irr,Conservation,Conservation,Conservation,36,,,nan
+F,2011,Irr,Conservation,Conservation,Conservation,320,,,nan
+F,2011,Irr,Conservation,Conservation,Conservation,823,,,nan
+F,2011,Irr,Conservation,Conservation,Conservation,89,,,nan
+F,2011,Irr,Conservation,Conservation,Conservation,88,,,nan
+F,2011,Irr,Conservation,Conservation,Conservation,196,,,nan
+F,2011,Irr,Conservation,Conservation,Conservation,11548,,,nan
+F,2011,Irr,Conservation,Conservation,Conservation,1822,,,nan
+F,2011,Irr,Conservation,Conservation,Conservation,18,,page 431,nan
+O,2011,Irr,Conservation,Conservation,Conservation,14737,86,,119
+O,2011,Irr,Conservation,Conservation,Conservation,4432,86,,119
+O,2011,Irr,Conservation,Conservation,Conservation,7665,86,,119
+O,2011,Irr,Conservation,Conservation,Conservation,9684,86,,119
+O,2011,Irr,Conservation,Conservation,Conservation,7587,86,,119
+K,2011,Mun,Conservation,Conservation,Conservation,512,548,,756
+K,2011,Mun,Conservation,Conservation,Conservation,469,548,,756
+K,2011,Mun,Conservation,Conservation,Conservation,400,548,,756
+K,2011,Mun,Conservation,Conservation,Conservation,91,548,,756
+K,2011,Mun,Conservation,Conservation,Conservation,32,592,,817
+K,2011,Mun,Conservation,Conservation,Conservation,526,592,,817
+K,2011,Mun,Conservation,Conservation,Conservation,187,592,,817
+K,2011,Mun,Conservation,Conservation,Conservation,61,592,,817
+K,2011,Mun,Conservation,Conservation,Conservation,196,548,,756
+K,2011,Mun,Conservation,Conservation,Conservation,155,592,,817
+K,2011,Mun,Conservation,Conservation,Conservation,105,592,,817
+K,2011,Mun,Conservation,Conservation,Conservation,52,591,,816
+K,2011,Mun,Conservation,Conservation,Conservation,11000,505,,697
+K,2011,Mun,Conservation,Conservation,Conservation,37,548,,756
+K,2011,Mun,Conservation,Conservation,Conservation,187,548,,756
+K,2011,Mun,Conservation,Conservation,Conservation,23,548,,756
+K,2011,Mun,Conservation,Conservation,Conservation,748,548,,757
+K,2011,Mun,Conservation,Conservation,Conservation,158,548,,757
+K,2011,Mun,Conservation,Conservation,Conservation,541,548,,757
+K,2011,Mun,Conservation,Conservation,Conservation,163,548,,757
+K,2011,Mun,Conservation,Conservation,Conservation,31,548,,756
+K,2011,Mun,Conservation,Conservation,Conservation,86,505,,697
+K,2011,Mun,Conservation,Conservation,Conservation,204,548,,756
+K,2011,Mun,Conservation,Conservation,Conservation,41,592,,817
+K,2011,Mun,Desal,Desal,Treatment,600,979,,1351
+K,2011,Mun,Desal,Desal,Treatment,6000,979,,1351
+K,2011,Mun,Develop GW,Groundwater,GW,889,491,,678
+K,2011,Mun,Develop GW,Groundwater,GW,1687,771,,1063
+K,2011,Mun,Develop GW,Groundwater,GW,478,1542,,2128
+K,2011,Mun,Develop GW,Groundwater,GW,512,1711,,2361
+K,2011,Mun,Expand GW,Groundwater,GW,7850,542,,748
+K,2011,Mun,Expand GW,Groundwater,GW,2814,118,,163
+K,2011,Mun,Expand GW,Groundwater,GW,3700,381,,526
+K,2011,Mun,Expand GW,Groundwater,GW,2734,256,,353
+K,2011,Mun,Expand GW,Groundwater,GW,1115,212,,292
+K,2011,Mun,Expand GW,Groundwater,GW,541,924,,1274
+K,2011,Mun,Expand GW,Groundwater,GW,1179,1958,,2702
+K,2011,Mun,Expand GW,Groundwater,GW,109,37,,51
+K,2011,Mun,Expand GW,Groundwater,GW,123,37,,52
+K,2011,Mun,Expand GW,Groundwater,GW,32,37,,52
+K,2011,Mun,Expand GW,Groundwater,GW,428,305,,421
+K,2011,Mun,Expand GW,Groundwater,GW,116,37,,52
+K,2011,Mun,Expand GW,Groundwater,GW,9,37,,52
+K,2011,Mun,Expand GW,Groundwater,GW,325,736,,1016
+K,2011,Mun,Infrastructure,Infrastructure,Infrastructure ,1100,963,,1329
+K,2011,Mun,LCRA_contract,SW contract,SW,2780,138,,190
+K,2011,Mun,LCRA_contract,SW contract,SW,1130,138,,190
+K,2011,Mun,LCRA_contract,SW contract,SW,17,138,,190
+K,2011,Mun,LCRA_contract,SW contract,SW,304,138,,190
+K,2011,Mun,LCRA_contract,SW contract,SW,593,138,,190
+K,2011,Mun,LCRA_contract,SW contract,SW,2482,138,,190
+K,2011,Mun,LCRA_contract,SW contract,SW,366,138,,190
+K,2011,Mun,LCRA_contract,SW contract,SW,240,138,,190
+K,2011,Mun,LCRA_contract,SW contract,SW,1015,138,,190
+K,2011,Mun,LCRA_contract,SW contract,SW,74,138,,190
+K,2011,Mun,LCRA_contract,SW contract,SW,807,138,,190
+K,2011,Mun,LCRA_contract,SW contract,SW,554,138,,190
+K,2011,Mun,LCRA_contract,SW contract,SW,2041,138,,190
+K,2011,Mun,LCRA_contract,SW contract,SW,1160,138,,190
+K,2011,Mun,LCRA_contract,SW contract,SW,3034,138,,190
+K,2011,Mun,LCRA_contract,SW contract,SW,995,138,,190
+K,2011,Mun,LCRA_contract,SW contract,SW,528,138,,190
+K,2011,Mun,LCRA_contract,SW contract,SW,373,138,,190
+K,2011,Mun,LCRA_contract,SW contract,SW,2471,138,,190
+K,2011,Mun,LCRA_contract,SW contract,SW,2222,138,,190
+K,2011,Mun,Reuse,Reuse,Reuse,40468,851,,1174
+K,2011,Mun,Reuse,Reuse,Reuse,5000,550,,759
+K,2011,Manufacturing,Develop GW,Groundwater,GW,400,1657,,2286
+K,2011,Liv,Develop GW,Groundwater,GW,62,4924,,6795
+F,2011,Manufacturing,Direct_reuse ,Reuse,Reuse,350,,,0
+K,2011,Min,Expand GW,Groundwater,GW,4298,324,,447
+K,2011,Liv,Expand GW,Groundwater,GW,23,4038,,5572
+K,2011,Min,Expand GW,Groundwater,GW,25,64,,88
+K,2011,Min,Expand GW,Groundwater,GW,873,1698,,2343
+K,2011,Liv,Expand GW,Groundwater,GW,14,3258,,4496
+K,2011,Liv,Expand GW,Groundwater,GW,11,3152,,4350
+K,2011,Min,Expand GW,Groundwater,GW,4269,9,,12
+K,2011,Min,Expand GW,Groundwater,GW,3626,9,,12
+K,2011,Min,Expand GW,Groundwater,GW,555,9,,12
+K,2011,Irr,Expand GW,Groundwater,GW,20,37,,52
+K,2011,Liv,Expand GW,Groundwater,GW,22,2867,,3956
+K,2011,Manufacturing,Expand GW,Groundwater,GW,119,37,,52
+K,2011,Liv,Expand GW,Groundwater,GW,56,4731,,6529
+K,2011,Irr,Expand GW,Groundwater,GW,193,37,,52
+F,2011,Min,Subordination,Subordination,SW,43,,,nan
+F,2011,Irr,Subordination,Subordination,SW,1348,,,nan
+F,2011,Manufacturing,Subordination,Subordination,SW,6,,,nan
+F,2011,Min,Subordination,Subordination,SW,18,,,nan
+F,2011,Manufacturing,Subordination,Subordination,SW,46,,,nan
+F,2011,Manufacturing,Subordination,Subordination,SW,71,,,nan
+F,2011,Min,Subordination,Subordination,SW,101,,,nan
+F,2011,Manufacturing,Subordination,Subordination,SW,1000,,,nan
+F,2011,Manufacturing,Subordination,Subordination,SW,70,,,nan
+F,2011,Manufacturing,Subordination,Subordination,SW,12,,,nan
+F,2011,Irr,Subordination,Subordination,SW,3066,,,nan
+F,2011,Manufacturing,Subordination,Subordination,SW,2971,,,nan
+O,2011,Mun,Conservation,Conservation,Conservation,38,614,,847
+O,2011,Mun,Conservation,Conservation,Conservation,471,554,,765
+O,2011,Mun,Conservation,Conservation,Conservation,802,541,,747
+O,2011,Mun,Conservation,Conservation,Conservation,171,556,,767
+O,2011,Mun,Conservation,Conservation,Conservation,107,546,,753
+O,2011,Mun,Develop GW,Groundwater,GW,693,292,,403
+O,2011,Mun,Develop GW,Groundwater,GW,1154,124,,171
+O,2011,Mun,Develop GW,Groundwater,GW,501,255,,352
+O,2011,Mun,Water_purchase,SW contract,SW,494,282,,389
+K,2016,Min,ASR,ASR,GW,100,1291,,1640
+K,2016,Irr,Austin_return_flows,Return_flows,SW,13000,0,,0
+K,2016,Irr,Austin_return_flows,Return_flows,SW,7546,0,,0
+F,2016,Power_Steam_Elec,Alternative_cooling,Conservation,Conservation,401,7409,5507,9409
+F,2016,Power_Steam_Elec,Alternative_cooling,Conservation,Conservation,8604,836,541,1062
+F,2016,Irr,Conservation,Conservation,Conservation,3726,22,0,28
+F,2016,Irr,Conservation,Conservation,Conservation,399,22,0,28
+F,2016,Irr,Conservation,Conservation,Conservation,750,22,0,28
+F,2016,Irr,Conservation,Conservation,Conservation,115,22,0,28
+F,2016,Irr,Conservation,Conservation,Conservation,77,22,0,28
+F,2016,Irr,Conservation,Conservation,Conservation,1062,22,0,28
+F,2016,Irr,Conservation,Conservation,Conservation,210,22,0,28
+F,2016,Irr,Conservation,Conservation,Conservation,2232,22,0,28
+F,2016,Irr,Conservation,Conservation,Conservation,722,22,0,28
+F,2016,Irr,Conservation,Conservation,Conservation,210,22,0,28
+F,2016,Irr,Conservation,Conservation,Conservation,326,22,0,28
+F,2016,Irr,Conservation,Conservation,Conservation,524,22,0,28
+F,2016,Irr,Conservation,Conservation,Conservation,5254,22,0,28
+F,2016,Irr,Conservation,Conservation,Conservation,1208,22,0,28
+F,2016,Irr,Conservation,Conservation,Conservation,377,22,0,28
+F,2016,Irr,Conservation,Conservation,Conservation,4913,22,0,28
+F,2016,Irr,Conservation,Conservation,Conservation,228,22,0,28
+F,2016,Irr,Conservation,Conservation,Conservation,2773,22,0,28
+F,2016,Irr,Conservation,Conservation,Conservation,477,22,0,28
+F,2016,Irr,Conservation,Conservation,Conservation,81,22,0,28
+F,2016,Irr,Conservation,Conservation,Conservation,885,22,0,28
+F,2016,Irr,Conservation,Conservation,Conservation,135,22,0,28
+F,2016,Irr,Conservation,Conservation,Conservation,260,22,0,28
+F,2016,Irr,Conservation,Conservation,Conservation,11175,22,0,28
+F,2016,Irr,Conservation,Conservation,Conservation,1380,22,0,28
+F,2016,Mun,Additional treatment,Treatment,Treatment,3177,651,195,827
+F,2016,Mun,Additional treatment,Treatment,Treatment,610,3013,246,3827
+F,2016,Mun,Additional treatment,Treatment,Treatment,504,1603,480,2036
+F,2016,Mun,Additional treatment,Treatment,Treatment,680,240,141,305
+F,2016,Mun,Additional treatment,Treatment,Treatment,7500,1078,383,1369
+F,2016,Mun,ASR,ASR,GW,5000,651,480,827
+F,2016,Mun,Brush control,Brush control,Brush control,2240,100,100,127
+F,2016,Mun,Brush control,Brush control,Brush control,20257,857,857,1088
+F,2016,Mun,Conservation,Conservation,Conservation,136,533,423,677
+F,2016,Mun,Conservation,Conservation,Conservation,4,1196,1183,1519
+F,2016,Mun,Conservation,Conservation,Conservation,9,776,769,986
+F,2016,Mun,Conservation,Conservation,Conservation,45,398,388,505
+F,2016,Mun,Conservation,Conservation,Conservation,129,448,522,569
+F,2016,Mun,Conservation,Conservation,Conservation,19,636,632,808
+F,2016,Mun,Conservation,Conservation,Conservation,16,661,657,839
+F,2016,Mun,Conservation,Conservation,Conservation,6,909,900,1154
+F,2016,Mun,Conservation,Conservation,Conservation,26,602,600,765
+F,2016,Mun,Conservation,Conservation,Conservation,16,959,959,1218
+F,2016,Mun,Conservation,Conservation,Conservation,6,938,938,1191
+F,2016,Mun,Conservation,Conservation,Conservation,27,597,595,758
+F,2016,Mun,Conservation,Conservation,Conservation,16,658,656,836
+F,2016,Mun,Conservation,Conservation,Conservation,23,628,600,798
+F,2016,Mun,Conservation,Conservation,Conservation,23,620,607,787
+F,2016,Mun,Conservation,Conservation,Conservation,102,533,470,677
+F,2016,Mun,Conservation,Conservation,Conservation,21,656,591,833
+F,2016,Mun,Conservation,Conservation,Conservation,924,316,309,401
+F,2016,Mun,Conservation,Conservation,Conservation,193,399,444,507
+F,2016,Mun,Conservation,Conservation,Conservation,5,1027,996,1304
+F,2016,Mun,Conservation,Conservation,Conservation,5,1058,1052,1344
+F,2016,Mun,Conservation,Conservation,Conservation,46,676,674,859
+F,2016,Mun,Conservation,Conservation,Conservation,18,664,625,843
+F,2016,Mun,Conservation,Conservation,Conservation,12,719,719,913
+F,2016,Mun,Conservation,Conservation,Conservation,33,555,523,705
+F,2016,Mun,Conservation,Conservation,Conservation,3,1286,1239,1633
+F,2016,Mun,Conservation,Conservation,Conservation,25,607,596,771
+F,2016,Mun,Conservation,Conservation,Conservation,14,692,679,879
+F,2016,Mun,Conservation,Conservation,Conservation,25,813,813,1033
+F,2016,Mun,Conservation,Conservation,Conservation,973,313,309,398
+F,2016,Mun,Conservation,Conservation,Conservation,183,398,371,505
+F,2016,Mun,Conservation,Conservation,Conservation,32,593,535,753
+F,2016,Mun,Conservation,Conservation,Conservation,4,1231,1172,1563
+F,2016,Mun,Conservation,Conservation,Conservation,28,597,589,758
+F,2016,Mun,Conservation,Conservation,Conservation,57,352,265,447
+F,2016,Mun,Conservation,Conservation,Conservation,8,842,758,1069
+F,2016,Mun,Conservation,Conservation,Conservation,22,635,602,806
+F,2016,Mun,Conservation,Conservation,Conservation,22,638,605,810
+F,2016,Mun,Conservation,Conservation,Conservation,12,728,687,925
+F,2016,Mun,Conservation,Conservation,Conservation,59,332,272,422
+F,2016,Mun,Conservation,Conservation,Conservation,21,634,611,805
+F,2016,Mun,Conservation,Conservation,Conservation,58,621,618,789
+F,2016,Mun,Conservation,Conservation,Conservation,6,977,911,1241
+F,2016,Mun,Conservation,Conservation,Conservation,15,676,672,859
+F,2016,Mun,Conservation,Conservation,Conservation,11,736,736,935
+F,2016,Mun,Conservation,Conservation,Conservation,93,536,509,681
+F,2016,Mun,Conservation,Conservation,Conservation,5,986,963,1252
+F,2016,Mun,Conservation,Conservation,Conservation,20,640,623,813
+F,2016,Mun,Conservation,Conservation,Conservation,37,523,427,664
+F,2016,Mun,Conservation,Conservation,Conservation,793,319,317,405
+F,2016,Mun,Conservation,Conservation,Conservation,13,723,686,918
+F,2016,Mun,Conservation,Conservation,Conservation,5,1036,948,1316
+F,2016,Mun,Conservation,Conservation,Conservation,45,428,362,544
+F,2016,Mun,Conservation,Conservation,Conservation,24,617,599,784
+F,2016,Mun,Conservation,Conservation,Conservation,32,552,524,701
+F,2016,Mun,Conservation,Conservation,Conservation,12,892,629,1133
+F,2016,Mun,Conservation,Conservation,Conservation,7,932,811,1184
+F,2016,Mun,Desal,Desal,Treatment,3360,1844,977,2342
+F,2016,Mun,Desal,Desal,Treatment,3750,2142,703,2720
+F,2016,Mun,Develop GW,Groundwater,GW,150,4673,1813,5935
+F,2016,Mun,Develop GW,Groundwater,GW,250,1636,224,2078
+F,2016,Mun,Develop GW,Groundwater,GW,500,696,108,884
+F,2016,Mun,Develop GW,Groundwater,GW,78,8885,1000,11284
+F,2016,Mun,Develop GW,Groundwater,GW,220,1655,305,2102
+F,2016,Mun,Develop GW,Groundwater,GW,500,1366,342,1735
+F,2016,Mun,Develop GW,Groundwater,GW,1000,5837,590,7413
+F,2016,Mun,Expand GW,Groundwater,GW,10000,869,432,1104
+K,2016,Irr,Conservation,Conservation,Conservation,6049,162,,206
+K,2016,Irr,Conservation,Conservation,Conservation,19741,162,,206
+K,2016,Irr,Conservation,Conservation,Conservation,12211,162,,206
+K,2016,Irr,Conservation,Conservation,Conservation,41338,76,,97
+K,2016,Irr,Conservation,Conservation,Conservation,8429,423,,537
+F,2016,Mun,Infrastructure,Infrastructure,Infrastructure ,412,867,0,1101
+F,2016,Mun,Infrastructure,Infrastructure,Infrastructure ,104,1370,164,1740
+F,2016,Mun,Reuse,Reuse,Reuse,25,1560,160,1981
+F,2016,Mun,Reuse,Reuse,Reuse,841,1541,696,1957
+F,2016,Mun,Reuse,Reuse,Reuse,50,902,89,1146
+F,2016,Mun,Reuse,Reuse,Reuse,67,1775,165,2254
+F,2016,Mun,Reuse,Reuse,Reuse,62,748,79,950
+F,2016,Mun,Reuse,Reuse,Reuse,83,5091,1685,6466
+F,2016,Mun,Reuse,Reuse,Reuse,7000,2826,1033,3589
+F,2016,Mun,Subordination,Subordination,SW,400,0,0,nan
+F,2016,Mun,Subordination,Subordination,SW,6,0,0,nan
+F,2016,Mun,Subordination,Subordination,SW,2102,0,0,nan
+F,2016,Mun,Subordination,Subordination,SW,214,0,0,nan
+F,2016,Mun,Subordination,Subordination,SW,11671,0,0,nan
+F,2016,Mun,Subordination,Subordination,SW,3677,0,0,nan
+F,2016,Mun,Subordination,Subordination,SW,412,0,0,nan
+F,2016,Mun,Subordination,Subordination,SW,253,0,0,nan
+F,2016,Mun,Subordination,Subordination,SW,1892,0,0,nan
+F,2016,Mun,Subordination,Subordination,SW,517,0,0,nan
+F,2016,Mun,Subordination,Subordination,SW,8527,0,0,nan
+F,2016,Mun,Subordination,Subordination,SW,752,0,0,nan
+F,2016,Mun,Subordination,Subordination,SW,112,0,0,nan
+F,2016,Mun,Subordination,Subordination,SW,186,0,0,nan
+F,2016,Mun,Subordination,Subordination,SW,1268,0,0,nan
+F,2016,Mun,Subordination,Subordination,SW,3271,0,0,nan
+F,2016,Mun,Subordination,Subordination,SW,6981,0,0,nan
+F,2016,Mun,Subordination,Subordination,SW,5527,0,0,nan
+F,2016,Mun,Voluntary_trans,Voluntary transfer,SW,20,458,0,582
+F,2016,Mun,Voluntary_trans,Voluntary transfer,SW,178,652,652,828
+F,2016,Mun,Voluntary_trans,Voluntary transfer,SW,480,1054,738,1339
+F,2016,Mun,Voluntary_trans,Voluntary transfer,SW,35,1543,714,1960
+F,2016,Mun,Voluntary_trans,Voluntary transfer,SW,920,4848,868,6157
+F,2016,Mun,Voluntary_trans,Voluntary transfer,SW,100,950,370,1207
+F,2016,Mun,Voluntary_trans,Voluntary transfer,SW,4000,1256,710,1595
+F,2016,Mun,Voluntary_trans,Voluntary transfer,SW,4000,652,652,828
+F,2016,Mun,Voluntary_trans,Voluntary transfer,SW,150,500,0,635
+F,2016,Mun,Voluntary_trans,Voluntary transfer,SW,210,652,652,828
+F,2016,Mun,Voluntary_trans,Voluntary transfer,SW,404,6116,722,7767
+F,2016,Mun,Voluntary_trans,Voluntary transfer,SW,404,6116,722,7767
+F,2016,Power_Steam_Elec,Alternative_cooling,Conservation,Conservation,837,1623,622,2061
+K,2016,Power_Steam_Elec,Austin_return_flows,Return_flows,SW,763,0,,0
+K,2016,Power_Steam_Elec,Blend brakish water ,Blend brakish water ,SW,3000,0,,0
+O,2016,Irr,Conservation,Conservation,Conservation,2977,42,,53
+O,2016,Irr,Conservation,Conservation,Conservation,9610,32,,41
+O,2016,Irr,Conservation,Conservation,Conservation,12306,42,,53
+O,2016,Irr,Conservation,Conservation,Conservation,8259,42,,53
+O,2016,Irr,Conservation,Conservation,Conservation,3048,42,,53
+K,2016,Irr,Conveyance,Conservation,Conservation,6527,200,,254
+K,2016,Irr,Conveyance,Conservation,Conservation,21300,200,,254
+K,2016,Irr,Conveyance,Conservation,Conservation,13175,200,,254
+K,2016,Irr,Demand_reduction,Drought management strategies,Conservation,27221,163,,207
+K,2016,Irr,Demand_reduction,Drought management strategies,Conservation,34276,649,,824
+K,2016,Irr,Demand_reduction,Drought management strategies,Conservation,36,123,,156
+K,2016,Irr,Demand_reduction,Drought management strategies,Conservation,25666,260,,330
+K,2016,Mun,ASR,ASR,GW,50000,604,,767
+K,2016,Mun,ASR,ASR,GW,600,1291,,1640
+K,2016,Mun,ASR,ASR,GW,100,2031,,2579
+K,2016,Mun,ASR,ASR,GW,400,2031,,2579
+K,2016,Mun,ASR,ASR,GW,200,1291,,1640
+K,2016,Mun,ASR,ASR,GW,100,2031,,2579
+K,2016,Mun,ASR,ASR,GW,100,2031,,2579
+K,2016,Mun,ASR,ASR,GW,101,2031,,2579
+K,2016,Mun,ASR,ASR,GW,199,2031,,2579
+K,2016, Mun,ASR,ASR,GW,44,1300,,1651
+K,2016,Mun,ASR,ASR,GW,200,1291,,1640
+K,2016,Mun,Brush control,Brush control,Brush control,425,500,,635
+K,2016,Mun,Brush control,Brush control,Brush control,425,500,,635
+K,2016,Mun,Brush control,Brush control,Brush control,425,500,,635
+K,2016,Mun,Brush control,Brush control,Brush control,425,500,,635
+K,2016,Mun,Brush control,Brush control,Brush control,425,500,,635
+K,2016,Mun,Brush control,Brush control,Brush control,425,500,,635
+K,2016,Mun,Brush control,Brush control,Brush control,425,500,,635
+K,2016,Mun,Brush control,Brush control,Brush control,425,500,,635
+K,2016,Mun,Conservation,Conservation,Conservation,1235,352,,447
+K,2016,Mun,Conservation,Conservation,Conservation,31220,342,,434
+K,2016,Mun,Conservation,Conservation,Conservation,137,282,,358
+K,2016,Mun,Conservation,Conservation,Conservation,1084,303,,385
+K,2016,Mun,Conservation,Conservation,Conservation,94,336,,427
+K,2016,Mun,Conservation,Conservation,Conservation,863,272,,345
+K,2016,Mun,Conservation,Conservation,Conservation,126,292,,371
+K,2016,Mun,Conservation,Conservation,Conservation,26,378,,480
+K,2016,Mun,Conservation,Conservation,Conservation,552,374,,475
+K,2016,Mun,Conservation,Conservation,Conservation,571,291,,370
+K,2016,Mun,Conservation,Conservation,Conservation,347,282,,358
+K,2016,Mun,Conservation,Conservation,Conservation,19,322,,409
+K,2016,Mun,Conservation,Conservation,Conservation,414,374,,475
+K,2016,Mun,Conservation,Conservation,Conservation,141,293,,372
+K,2016,Mun,Conservation,Conservation,Conservation,187,313,,398
+K,2016,Mun,Conservation,Conservation,Conservation,56,395,,502
+K,2016,Mun,Conservation,Conservation,Conservation,60,356,,452
+K,2016,Mun,Conservation,Conservation,Conservation,916,284,,361
+K,2016,Mun,Conservation,Conservation,Conservation,38,449,,570
+K,2016,Mun,Conservation,Conservation,Conservation,1157,257,,326
+K,2016,Mun,Conservation,Conservation,Conservation,28,378,,480
+K,2016,Mun,Conservation,Conservation,Conservation,73,356,,452
+K,2016,Mun,Conservation,Conservation,Conservation,604,291,,370
+K,2016,Mun,Conservation,Conservation,Conservation,3052,272,,345
+K,2016,Mun,Conservation,Conservation,Conservation,169,291,,370
+K,2016,Mun,Conservation,Conservation,Conservation,441,258,,328
+K,2016,Mun,Conservation,Conservation,Conservation,215,291,,370
+K,2016,Mun,Conservation,Conservation,Conservation,1397,286,,363
+K,2016,Mun,Conservation,Conservation,Conservation,443,271,,344
+K,2016,Mun,Conservation,Conservation,Conservation,3029,295,,375
+K,2016,Mun,Conservation,Conservation,Conservation,191,282,,358
+K,2016,Mun,Conservation,Conservation,Conservation,91,286,,363
+K,2016,Mun,Conservation,Conservation,Conservation,377,275,,349
+K,2016,Mun,Conservation,Conservation,Conservation,141,343,,436
+K,2016,Mun,Conservation,Conservation,Conservation,88,376,,478
+K,2016,Mun,Conservation,Conservation,Conservation,241,276,,351
+K,2016,Mun,Conservation,Conservation,Conservation,487,263,,334
+K,2016,Mun,Conservation,Conservation,Conservation,1302,251,,319
+K,2016,Mun,Conservation,Conservation,Conservation,996,275,,349
+K,2016,Mun,Conservation,Conservation,Conservation,2889,289,,367
+K,2016,Mun,Conservation,Conservation,Conservation,87,375,,476
+K,2016,Mun,Conservation,Conservation,Conservation,166,255,,324
+K,2016,Mun,Conservation,Conservation,Conservation,197,261,,331
+K,2016,Mun,Conservation,Conservation,Conservation,117,290,,368
+K,2016,Mun,Conservation,Conservation,Conservation,505,267,,339
+K,2016,Mun,Conservation,Conservation,Conservation,4465,267,,339
+K,2016,Mun,Conservation,Conservation,Conservation,171,312,,396
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,3248,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,26524,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,63,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,692,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,591,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,516,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,93,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,71,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,456,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,559,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,185,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,68,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,517,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,185,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,593,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,229,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,225,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,310,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,852,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,28,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,81,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,81,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,46,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,322,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,42,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,141,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,218,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,85,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,65,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,500,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,141,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,63,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,551,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,55,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,48,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,860,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,92,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,95,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,50,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,161,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,566,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,1816,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,128,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,197,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,211,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,362,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,733,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,1122,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,261,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,118,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,167,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,105,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,6474,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,96,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,56,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,230,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,139,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,110,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,273,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,218,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,216,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,762,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,761,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,1678,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,236,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,99,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,117,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,90,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,84,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,307,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,2757,50,,64
+K,2016,Mun,Demand_reduction,Drought management strategies,Conservation,274,50,,64
+K,2016,Mun,Develop GW,Groundwater,GW,300,937,,1190
+K,2016,Mun,Develop GW,Groundwater,GW,1000,708,,899
+K,2016,Mun,Develop GW,Groundwater,GW,200,1270,,1613
+F,2016,Min,Develop GW,Groundwater,GW,70,211,55,268
+F,2016,Min,Develop GW,Groundwater,GW,80,200,53,254
+F,2016,Agg,Develop GW,Groundwater,GW,92,185,54,235
+K,2016,Mun,Develop GW,Groundwater,GW,200,1035,,1314
+F,2016,Liv,Develop GW,Groundwater,GW,150,367,80,466
+F,2016,Min,Develop GW,Groundwater,GW,274,383,82,486
+F,2016,Min,Develop GW,Groundwater,GW,150,520,87,660
+K,2016,Mun,Develop GW,Groundwater,GW,1000,708,,899
+F,2016,Liv,Develop GW,Groundwater,GW,40,800,100,1016
+F,2016,Min,Develop GW,Groundwater,GW,210,348,76,442
+K,2016,Mun,Direct_reuse ,Reuse,Reuse,100,660,,838
+F,2016,Liv,Develop GW,Groundwater,GW,150,193,60,245
+K,2016,Mun,Direct_reuse ,Reuse,Reuse,2000,228,,290
+F,2016,Min,Develop GW,Groundwater,GW,250,295,67,375
+K,2016,Mun,Expand GW,Groundwater,GW,4000,259,,329
+F,2016,Min,Develop GW,Groundwater,GW,500,296,70,376
+F,2016,Manufacturing,Develop GW,Groundwater,GW,300,140,53,178
+F,2016,Min,Develop GW,Groundwater,GW,1500,188,57,239
+F,2016,Liv,Develop GW,Groundwater,GW,30,200,33,254
+F,2016,Min,Develop GW,Groundwater,GW,65,1200,154,1524
+F,2016,Min,Develop GW,Groundwater,GW,200,800,120,1016
+K,2016,Mun,Expand GW,Groundwater,GW,180,1044,,1326
+F,2016,Min,Develop GW,Groundwater,GW,30,419,67,532
+K,2016,Mun,Expand GW,Groundwater,GW,2467,1926,,2446
+K,2016,Mun,Expand GW,Groundwater,GW,60,3267,,4149
+K,2016,Mun,Expand GW,Groundwater,GW,55,1382,,1755
+K,2016,Mun,Expand GW,Groundwater,GW,55,2182,,2771
+K,2016,Mun,Expand GW,Groundwater,GW,226,602,,765
+K,2016,Mun,Expand GW,Groundwater,GW,639,667,,847
+K,2016,Mun,Expand GW,Groundwater,GW,2000,708,,899
+K,2016,Mun,Expand GW,Groundwater,GW,100,2060,,2616
+K,2016,Min,Develop GW,Groundwater,GW,466,689,,875
+K,2016,Power_Steam_Elec,Develop GW,Groundwater,GW,500,1113,,1414
+K,2016,Power_Steam_Elec,Develop GW,Groundwater,GW,2000,1113,,1414
+K,2016,Power_Steam_Elec,Develop GW,Groundwater,GW,700,496,,630
+K,2016,Mun,Expand GW,Groundwater,GW,175,800,,1016
+K,2016,Mun,Expand GW,Groundwater,GW,500,570,,724
+K,2016,Mun,Expand GW,Groundwater,GW,600,545,,692
+K,2016,Mun,Expand GW,Groundwater,GW,1000,537,,682
+K,2016,Mun,Expand GW,Groundwater,GW,1000,371,,471
+K,2016,Mun,Operations_SW,SW Operations,SW,2500,10,,13
+K,2016,Mun,Operations_SW,SW Operations,SW,3000,29,,37
+K,2016,Mun,Rainwater_harvesting,Rain harvesting,Rain,8282,3847,,4886
+K,2016,Mun,Reservoir_enhanced,Reservoir,SW,20000,187,,237
+K,2016,Mun,Reservoir_new,Reservoir,SW,5000,1414,,1796
+K,2016,Mun,Reservoir_new,Reservoir,SW,2500,2361,,2998
+K,2016,Mun,Reservoir_new,Reservoir,SW,600,0,,0
+K,2016,Mun,Reservoir_new,Reservoir,SW,884,952,,1209
+K,2016,Mun,Reservoir_new,Reservoir,SW,2000,952,,1209
+K,2016,Mun,Reservoir_new,Reservoir,SW,700,1517,,1927
+K,2016,Mun,Reservoir_new,Reservoir,SW,3813,1308,,1661
+K,2016,Mun,Reservoir_new,Reservoir,SW,400,151,,192
+K,2016,Mun,Reservoir_new,Reservoir,SW,3500,2718,,3452
+K,2016,Mun,Reservoir_new,Reservoir,SW,250,151,,192
+K,2016,Mun,Reservoir_new,Reservoir,SW,550,151,,192
+K,2016,Mun,Reservoir_new,Reservoir,SW,500,151,,192
+K,2016,Mun,Reservoir_new,Reservoir,SW,4000,1517,,1927
+K,2016,Mun,Reservoir_new,Reservoir,SW,3000,151,,192
+K,2016,Mun,Reservoir_new,Reservoir,SW,300,151,,192
+K,2016,Mun,Reservoir_new,Reservoir,SW,400,151,,192
+K,2016,Mun,Reservoir_new,Reservoir,SW,715,151,,192
+K,2016,Mun,Reservoir_new,Reservoir,SW,3000,151,,192
+K,2016,Mun,Reservoir_new,Reservoir,SW,2000,151,,192
+K,2016,Mun,Reservoir_new,Reservoir,SW,142,7644,,9708
+K,2016,Mun,Reservoir_new,Reservoir,SW,1300,151,,192
+K,2016,Mun,Reservoir_new,Reservoir,SW,3400,151,,192
+K,2016,Mun,Reuse,Reuse,Reuse,20000,180,,229
+K,2016,Mun,Reuse_direct,Reuse,Reuse,22929,1347,,1711
+K,2016,Mun,Reuse_direct,Reuse,Reuse,2000,1022,,1298
+K,2016,Mun,Reuse_direct,Reuse,Reuse,600,448,,569
+K,2016,Mun,Reuse_direct,Reuse,Reuse,1740,264,,335
+K,2016,Mun,Reuse_direct,Reuse,Reuse,168,821,,1043
+K,2016,Mun,Reuse_return_flows,Return_flows,SW,22874,0,,0
+K,2016,Mun,SW,Infrastructure,SW,1000,297,,377
+K,2016,Power_Steam_Elec,Direct_reuse ,Reuse,Reuse,8500,1347,,1711
+K,2016,Min,Direct_reuse ,Reuse,Reuse,500,0,,0
+K,2016,Power_Steam_Elec,Expand GW,Groundwater,GW,300,1517,,1927
+K,2016,Irr,Expand GW,Groundwater,GW,480,1619,,2056
+K,2016,Manufacturing,Expand GW,Groundwater,GW,151,995,,1264
+K,2016,Manufacturing,Expand GW,Groundwater,GW,391,547,,695
+K,2016,Manufacturing,Expand GW,Groundwater,GW,626,594,,754
+K,2016,Min,Expand GW,Groundwater,GW,1500,950,,1207
+K,2016,Min,Expand GW,Groundwater,GW,1800,718,,912
+K,2016,Min,Expand GW,Groundwater,GW,618,622,,790
+K,2016,Min,Expand GW,Groundwater,GW,1047,436,,554
+K,2016,Power_Steam_Elec,Reservoir_enhanced,Reservoir,SW,2000,187,,237
+K,2016,Utl,LCRA_buy_rights,SW rights,SW,350,500,,635
+K,2016,Power_Steam_Elec,Reservoir_new,Reservoir,SW,11000,151,,192
+K,2016,Power_Steam_Elec,Reservoir_new,Reservoir,SW,22727,151,,192
+K,2016,Irr,LCRA_interrupatable ,SW contract,SW,4387,50,,64
+K,2016,Irr,LCRA_interrupatable ,SW contract,SW,4611,50,,64
+K,2016,Irr,LCRA_interrupatable ,SW contract,SW,726,50,,64
+F,2016,Power_Steam_Elec,Subordination,Subordination,SW,1480,0,0,nan
+K,2016,Irr,Reservoir_new,Reservoir,SW,12000,33,,42
+K,2016,Utl,Reservoir_new,Reservoir,SW,16117,1446,,1836
+F,2016,Power_Steam_Elec,Voluntary_trans,Voluntary transfer,SW,4000,652,652,828
+F,2016,Min,Reuse,Reuse,Reuse,250,368,56,467
+F,2016,Min,Reuse,Reuse,Reuse,500,664,104,843
+F,2016,Min,Reuse,Reuse,Reuse,2500,1141,197,1449
+F,2016,Min,Reuse,Reuse,Reuse,1500,1187,193,1507
+K,2016,Irr,Sprinkler ,Conservation,Conservation,2845,36,,46
+K,2016,Irr,Sprinkler ,Conservation,Conservation,9268,36,,46
+K,2016,Irr,Sprinkler ,Conservation,Conservation,5743,36,,46
+F,2016,Min,Subordination,Subordination,SW,38,0,0,nan
+F,2016,Irr,Subordination,Subordination,SW,743,0,0,nan
+F,2016,Irr,Subordination,Subordination,SW,189,0,0,nan
+F,2016,Min,Subordination,Subordination,SW,1000,0,0,nan
+F,2016,Manufacturing,Subordination,Subordination,SW,11,0,0,nan
+F,2016,Manufacturing,Subordination,Subordination,SW,428,0,0,nan
+F,2016,Manufacturing,Voluntary_trans,Voluntary transfer,SW,895,652,652,828
+F,2016,Min,Voluntary_trans,Voluntary transfer,SW,242,326,326,414
+F,2016,Manufacturing,Voluntary_trans,Voluntary transfer,SW,25,500,0,635
+F,2016,Manufacturing,Voluntary_trans,Voluntary transfer,SW,230,500,0,635
+O,2016,Mun,Conservation,Conservation,Conservation,28,770,,978
+O,2016,Mun,Conservation,Conservation,Conservation,23,770,,978
+O,2016,Mun,Conservation,Conservation,Conservation,3206,226,,287
+O,2016,Mun,Conservation,Conservation,Conservation,116,770,,978
+O,2016,Mun,Conservation,Conservation,Conservation,69,770,770,978
+O,2016,Mun,Conservation,Conservation,Conservation,94,770,,978
+F,2016,Manufacturing,Voluntary_trans,Voluntary transfer,SW,778,652,652,828
+O,2016,Mun,Conservation,Conservation,Conservation,28,770,,978
+O,2016,Mun,Desal,Desal,Treatment,500,7822,2538,9934
+O,2016,Mun,Develop GW,Groundwater,GW,150,507,60,644
+O,2016,Mun,Develop GW,Groundwater,GW,1500,358,,455
+O,2016,Mun,Develop GW,Groundwater,GW,50,1160,120,1473
+O,2016,Mun,Develop GW,Groundwater,GW,1000,3108,367,3947
+O,2016,Mun,Develop GW,Groundwater,GW,925,333,62,423
+O,2016,Mun,Develop GW,Groundwater,GW,500,1954,1130,2482
+K,2021,Irr,Austin_return_flows,Return_flows,SW,3151,11,,13
+K,2021,Irr,Austin_return_flows,Return_flows,SW,8371,11,,13
+K,2021,Irr,Austin_return_flows,Return_flows,SW,4765,11,,13
+F,2021,Mun,Brush control,Brush control,Brush control,400,390,,460
+F,2021,Mun,Brush control,Brush control,Brush control,90,489,,577
+F,2021,Mun,Brush control,Brush control,Brush control,60,850,,1003
+F,2021,Mun,Conservation,Conservation,Conservation,9,1263,1134,1490
+F,2021,Mun,Conservation,Conservation,Conservation,111,952,592,1123
+F,2021,Mun,Conservation,Conservation,Conservation,18,1080,821,1274
+F,2021,Mun,Conservation,Conservation,Conservation,12,1107,1101,1306
+F,2021,Mun,Conservation,Conservation,Conservation,8,1221,2189,1441
+F,2021,Mun,Conservation,Conservation,Conservation,13,1139,1079,1344
+F,2021,Mun,Conservation,Conservation,Conservation,139,557,620,657
+F,2021,Mun,Conservation,Conservation,Conservation,19,988,930,1166
+F,2021,Mun,Conservation,Conservation,Conservation,25,705,688,832
+F,2021,Mun,Conservation,Conservation,Conservation,91,937,735,1106
+F,2021,Mun,Conservation,Conservation,Conservation,8,1222,1203,1442
+F,2021,Mun,Conservation,Conservation,Conservation,15,1065,1061,1257
+F,2021,Mun,Conservation,Conservation,Conservation,9,1144,5161,1350
+F,2021,Mun,Conservation,Conservation,Conservation,18,1054,938,1244
+F,2021,Mun,Conservation,Conservation,Conservation,23,894,1821,1055
+K,2021,Irr,Conservation,Conservation,Conservation,27254,116,,137
+K,2021,Irr,Conservation,Conservation,Conservation,28,643,,759
+K,2021,Irr,Conservation,Conservation,Conservation,29691,128,,151
+K,2021,Irr,Conservation,Conservation,Conservation,459,534,,630
+K,2021,Irr,Conservation,Conservation,Conservation,626,382,,451
+K,2021,Irr,Conservation,Conservation,Conservation,37643,129,,152
+F,2021,Mun,Conservation,Conservation,Conservation,9,1176,1170,1388
+F,2021,Mun,Conservation,Conservation,Conservation,125,292,598,345
+F,2021,Mun,Conservation,Conservation,Conservation,10,1222,1123,1442
+F,2021,Mun,Conservation,Conservation,Conservation,17,1108,859,1307
+F,2021,Mun,Conservation,Conservation,Conservation,8,1206,1203,1423
+F,2021,Mun,Conservation,Conservation,Conservation,7,1278,1278,1508
+F,2021,Mun,Conservation,Conservation,Conservation,8,1264,1203,1492
+F,2021,Mun,Conservation,Conservation,Conservation,882,436,428,514
+F,2021,Mun,Conservation,Conservation,Conservation,14,1088,1347,1284
+F,2021,Mun,Conservation,Conservation,Conservation,829,440,427,519
+F,2021,Mun,Conservation,Conservation,Conservation,592,448,444,529
+F,2021,Mun,Conservation,Conservation,Conservation,55,957,1606,1129
+K,2021,Min,Conservation,Conservation,Conservation,233,16,,19
+K,2021,Min,Conservation,Conservation,Conservation,1300,33,,39
+F,2021,Mun,Conservation,Conservation,Conservation,26,863,720,1018
+F,2021,Mun,Conservation,Conservation,Conservation,10,1199,1124,1415
+F,2021,Mun,Conservation,Conservation,Conservation,9,1191,1183,1405
+F,2021,Mun,Conservation,Conservation,Conservation,13,1091,1087,1287
+F,2021,Mun,Develop GW,Groundwater,GW,1000,1741,768,2054
+F,2021,Mun,Develop GW,Groundwater,GW,210,948,129,1119
+F,2021,Mun,Develop GW,Groundwater,GW,370,1573,154,1856
+F,2021,Mun,Develop GW,Groundwater,GW,3040,2321,1037,2739
+F,2021,Mun,Develop GW,Groundwater,GW,800,2424,340,2860
+F,2021,Mun,Develop GW,Groundwater,GW,22400,849,321,1002
+F,2021,Mun,Develop GW,Groundwater,GW,2800,738,121,871
+F,2021,Mun,Develop GW,Groundwater,GW,15000,1783,403,2104
+F,2021,Mun,Develop GW,Groundwater,GW,5000,1783,403,2104
+F,2021,Mun,Expand GW,Groundwater,GW,6295,102,76,120
+F,2021,Mun,Expand GW,Groundwater,GW,35,1000,114,1180
+F,2021,Mun,Infrastructure,Infrastructure,Infrastructure ,250,2388,0,2818
+F,2021,Mun,Infrastructure,Infrastructure,Infrastructure ,450,1748,202,2063
+F,2021,Mun,Leak_repair,Conservation,Conservation,77,1509,1584,1781
+F,2021,Mun,Leak_repair,Conservation,Conservation,57,1282,1340,1513
+F,2021,Mun,Leak_repair,Conservation,Conservation,66,1045,1076,1233
+F,2021,Mun,Leak_repair,Conservation,Conservation,116,451,438,532
+F,2021,Mun,Leak_repair,Conservation,Conservation,18,3498,3732,4128
+F,2021,Mun,Reuse,Reuse,Reuse,8400,1250,269,1475
+F,2021,Mun,Subordination,Subordination,SW,748,0,0,nan
+F,2021,Mun,Subordination,Subordination,SW,18,0,0,nan
+F,2021,Mun,Subordination,Subordination,SW,87,0,0,nan
+F,2021,Mun,Subordination,Subordination,SW,841,0,0,nan
+F,2021,Mun,Subordination,Subordination,SW,1128,0,0,nan
+F,2021,Mun,Subordination,Subordination,SW,250,0,0,nan
+F,2021,Mun,Subordination,Subordination,SW,228,0,0,nan
+F,2021,Mun,Subordination,Subordination,SW,421,0,0,nan
+F,2021,Mun,Subordination,Subordination,SW,3492,0,0,nan
+F,2021,Mun,Subordination,Subordination,SW,332,0,0,nan
+F,2021,Mun,Subordination,Subordination,SW,647,0,0,nan
+F,2021,Mun,Subordination,Subordination,SW,56,0,0,nan
+F,2021,Mun,Subordination,Subordination,SW,256,0,0,nan
+O,2021,Irr,Conservation,Conservation,Conservation,5300,450,,531
+O,2021,Irr,Conservation,Conservation,Conservation,21475,450,,531
+O,2021,Irr,Conservation,Conservation,Conservation,6426,450,,531
+O,2021,Irr,Conservation,Conservation,Conservation,9429,450,,531
+O,2021,Irr,Conservation,Conservation,Conservation,8893,450,,531
+F,2021,Mun,Subordination,Subordination,SW,31,0,0,nan
+O,2021,Manufacturing,Conservation,Conservation,Conservation,79,0,,0
+O,2021,Min,Conservation,Conservation,Conservation,91,0,,0
+O,2021,Min,Conservation,Conservation,Conservation,21,0,,0
+O,2021,Min,Conservation,Conservation,Conservation,48,0,,0
+F,2021,Mun,Subordination,Subordination,SW,33,0,0,nan
+F,2021,Mun,Subordination,Subordination,SW,1255,0,0,nan
+F,2021,Mun,Subordination,Subordination,SW,214,0,0,nan
+F,2021,Mun,Subordination,Subordination,SW,21,0,0,nan
+F,2021,Mun,Subordination,Subordination,SW,70,0,0,nan
+F,2021,Mun,Subordination,Subordination,SW,207,0,0,nan
+F,2021,Mun,Subordination,Subordination,SW,240,0,0,nan
+F,2021,Mun,Subordination,Subordination,SW,1709,0,0,nan
+F,2021,Mun,Subordination,Subordination,SW,30,0,0,nan
+F,2021,Mun,Subordination,Subordination,SW,38,0,0,nan
+F,2021,Mun,Subordination,Subordination,SW,98,0,0,nan
+F,2021,Mun,Subordination,Subordination,SW,989,0,0,nan
+F,2021,Mun,Subordination,Subordination,SW,5518,0,0,nan
+F,2021,Mun,Subordination,Subordination,SW,13002,0,0,nan
+F,2021,Mun,Subordination,Subordination,SW,468,0,0,nan
+F,2021,Mun,Subordination,Subordination,SW,1650,0,0,nan
+F,2021,Mun,Subordination,Subordination,SW,3930,0,0,nan
+F,2021,Mun,Subordination,Subordination,SW,445,0,0,nan
+F,2021,Mun,Subordination,Subordination,SW,2500,0,0,nan
+F,2021,Mun,Subordination,Subordination,SW,491,0,0,nan
+F,2021,Mun,Voluntary_trans,Voluntary transfer,SW,80,0,0,0
+F,2021,Mun,Voluntary_trans,Voluntary transfer,SW,50,0,0,0
+F,2021,Irr,Conservation,Conservation,Conservation,2037,21,0,25
+F,2021,Irr,Conservation,Conservation,Conservation,295,21,0,25
+F,2021,Irr,Conservation,Conservation,Conservation,650,21,0,25
+F,2021,Irr,Conservation,Conservation,Conservation,83,21,0,25
+F,2021,Irr,Conservation,Conservation,Conservation,47,21,0,25
+F,2021,Irr,Conservation,Conservation,Conservation,539,21,0,25
+F,2021,Irr,Conservation,Conservation,Conservation,113,21,0,25
+F,2021,Irr,Conservation,Conservation,Conservation,2050,21,0,25
+F,2021,Irr,Conservation,Conservation,Conservation,757,21,0,25
+F,2021,Irr,Conservation,Conservation,Conservation,158,21,0,25
+F,2021,Irr,Conservation,Conservation,Conservation,5474,21,0,25
+F,2021,Irr,Conservation,Conservation,Conservation,745,21,0,25
+F,2021,Irr,Conservation,Conservation,Conservation,349,21,0,25
+F,2021,Irr,Conservation,Conservation,Conservation,549,21,0,25
+F,2021,Irr,Conservation,Conservation,Conservation,2716,21,0,25
+F,2021,Irr,Conservation,Conservation,Conservation,256,21,0,25
+F,2021,Irr,Conservation,Conservation,Conservation,3305,21,0,25
+F,2021,Irr,Conservation,Conservation,Conservation,373,21,0,25
+F,2021,Irr,Conservation,Conservation,Conservation,109,21,0,25
+F,2021,Irr,Conservation,Conservation,Conservation,983,21,0,25
+F,2021,Irr,Conservation,Conservation,Conservation,135,21,0,25
+F,2021,Irr,Conservation,Conservation,Conservation,168,21,0,25
+F,2021,Irr,Conservation,Conservation,Conservation,5099,21,0,25
+F,2021,Irr,Conservation,Conservation,Conservation,1560,21,0,25
+F,2021,Min,Conservation,Conservation,Conservation,176,632,0,746
+F,2021,Min,Conservation,Conservation,Conservation,21,1117,0,1318
+F,2021,Min,Conservation,Conservation,Conservation,67,654,0,772
+F,2021,Min,Conservation,Conservation,Conservation,16,632,0,746
+F,2021,Min,Conservation,Conservation,Conservation,4,632,0,746
+F,2021,Min,Conservation,Conservation,Conservation,15,632,0,746
+F,2021,Min,Conservation,Conservation,Conservation,22,733,0,865
+F,2021,Min,Conservation,Conservation,Conservation,134,632,0,746
+F,2021,Min,Conservation,Conservation,Conservation,59,632,0,746
+F,2021,Min,Conservation,Conservation,Conservation,28,632,0,746
+F,2021,Min,Conservation,Conservation,Conservation,49,632,0,746
+F,2021,Min,Conservation,Conservation,Conservation,24,632,0,746
+F,2021,Min,Conservation,Conservation,Conservation,236,632,0,746
+F,2021,Min,Conservation,Conservation,Conservation,35,632,0,746
+F,2021,Min,Conservation,Conservation,Conservation,231,632,0,746
+F,2021,Min,Conservation,Conservation,Conservation,21,970,0,1145
+F,2021,Min,Conservation,Conservation,Conservation,62,632,0,746
+F,2021,Min,Conservation,Conservation,Conservation,9,632,0,746
+F,2021,Min,Conservation,Conservation,Conservation,16,903,0,1066
+F,2021,Min,Conservation,Conservation,Conservation,25,1617,0,1908
+F,2021,Min,Conservation,Conservation,Conservation,22,931,0,1099
+F,2021,Min,Conservation,Conservation,Conservation,24,1595,0,1882
+F,2021,Min,Conservation,Conservation,Conservation,47,792,0,935
+F,2021,Min,Conservation,Conservation,Conservation,53,632,0,746
+F,2021,Mun,Voluntary_trans,Voluntary transfer,SW,445,3730,2769,4401
+F,2021,Mun,Voluntary_trans,Voluntary transfer,SW,212,668,355,788
+F,2021,Mun,Voluntary_trans,Voluntary transfer,SW,491,0,0,0
+F,2021,Mun,Water_treatment,Treatment,Treatment,800,1720,816,2030
+F,2021,Mun,Water_treatment,Treatment,Treatment,15700,1111,738,1311
+F,2021,Mun,Water_treatment,Treatment,Treatment,11210,1128,471,1331
+F,2021,Mun,Water_treatment,Treatment,Treatment,1200,2069,327,2441
+F,2021,Mun,Water_treatment,Treatment,Treatment,700,856,594,1010
+F,2021,Mun,Water_treatment,Treatment,Treatment,6101,1701,1025,2007
+F,2021,Mun,Subordination,Subordination,SW,1000,0,0,nan
+K,2021,Irr,Demand_reduction,Drought management strategies,Conservation,7727,66,,78
+K,2021,Irr,Demand_reduction,Drought management strategies,Conservation,7813,66,,78
+K,2021,Irr,Demand_reduction,Drought management strategies,Conservation,137,66,,78
+K,2021,Irr,Demand_reduction,Drought management strategies,Conservation,15793,66,,78
+K,2021,Irr,Develop GW,Groundwater,GW,510,180,,212
+K,2021,Min,Develop GW,Groundwater,GW,300,534,,630
+K,2021,Min,Develop GW,Groundwater,GW,1000,432,,510
+K,2021,Min,Develop GW,Groundwater,GW,1000,307,,362
+O,2021,Manufacturing,Develop GW,Groundwater,GW,1200,231,51,273
+O,2021,Min,Develop GW,Groundwater,GW,1600,121,34,143
+O,2021,Min,Develop GW,Groundwater,GW,640,148,39,175
+O,2021,Min,Develop GW,Groundwater,GW,640,192,48,227
+F,2021,Manufacturing,Develop GW,Groundwater,GW,500,274,46,323
+F,2021,Manufacturing,Develop GW,Groundwater,GW,160,356,56,420
+K,2021,Mun,ASR,ASR,GW,10500,2234,,2636
+K,2021,Mun,ASR,ASR,GW,600,1398,,1650
+K,2021,Mun,ASR,ASR,GW,289,2190,,2584
+K,2021,Mun,ASR,ASR,GW,1000,442,,522
+K,2021,Mun,ASR,ASR,GW,289,2190,,2584
+K,2021,Mun,ASR,ASR,GW,146,3842,,4534
+K,2021,Mun,ASR,ASR,GW,3000,2119,,2500
+K,2021,Mun,ASR_Desal,ASR,GW,800,1951,,2302
+K,2021,Mun,Brush control,Brush control,Brush control,708,1190,,1404
+K,2021,Mun,Brush control,Brush control,Brush control,1215,1190,,1404
+K,2021,Mun,Brush control,Brush control,Brush control,83,1190,,1404
+K,2021,Mun,Brush control,Brush control,Brush control,83,1190,,1404
+K,2021,Mun,Conservation,Conservation,Conservation,36,3167,,3737
+K,2021,Mun,Conservation,Conservation,Conservation,30,770,,909
+K,2021,Mun,Conservation,Conservation,Conservation,30120,1343,,1585
+K,2021,Mun,Conservation,Conservation,Conservation,139,429,,506
+K,2021,Min,Direct_reuse ,Reuse,Reuse,600,1597,,1884
+K,2021,Mun,Conservation,Conservation,Conservation,258,397,,468
+K,2021,Mun,Conservation,Conservation,Conservation,558,1109,,1309
+K,2021,Mun,Conservation,Conservation,Conservation,205,541,,638
+K,2021,Mun,Conservation,Conservation,Conservation,21,5625,,6638
+K,2021,Mun,Conservation,Conservation,Conservation,499,1148,,1355
+K,2021,Mun,Conservation,Conservation,Conservation,90,681,,804
+K,2021,Mun,Conservation,Conservation,Conservation,694,684,,807
+K,2021,Mun,Conservation,Conservation,Conservation,586,824,,972
+K,2021,Mun,Conservation,Conservation,Conservation,384,537,,634
+K,2021,Mun,Conservation,Conservation,Conservation,28,2512,,2964
+K,2021,Mun,Conservation,Conservation,Conservation,263,1264,,1492
+K,2021,Mun,Conservation,Conservation,Conservation,190,2090,,2466
+K,2021,Mun,Conservation,Conservation,Conservation,102,7585,,8950
+K,2021,Mun,Conservation,Conservation,Conservation,92,2506,,2957
+K,2021,Mun,Conservation,Conservation,Conservation,20,2502,,2952
+K,2021,Mun,Conservation,Conservation,Conservation,417,1593,,1880
+K,2021,Mun,Conservation,Conservation,Conservation,486,1208,,1425
+K,2021,Mun,Conservation,Conservation,Conservation,68,563,,664
+K,2021,Mun,Conservation,Conservation,Conservation,92,1154,,1362
+K,2021,Mun,Conservation,Conservation,Conservation,1234,574,,677
+K,2021,Mun,Conservation,Conservation,Conservation,35,1326,,1565
+K,2021,Mun,Conservation,Conservation,Conservation,59,1800,,2124
+K,2021,Mun,Conservation,Conservation,Conservation,226,896,,1057
+K,2021,Mun,Conservation,Conservation,Conservation,169,598,,706
+K,2021,Mun,Conservation,Conservation,Conservation,1114,542,,640
+K,2021,Mun,Conservation,Conservation,Conservation,560,336,,396
+K,2021,Mun,Conservation,Conservation,Conservation,23,3255,,3841
+K,2021,Mun,Conservation,Conservation,Conservation,39,3825,,4514
+K,2021,Mun,Conservation,Conservation,Conservation,47,1353,,1597
+K,2021,Mun,Conservation,Conservation,Conservation,11,3635,,4289
+K,2021,Mun,Conservation,Conservation,Conservation,63,2835,,3345
+K,2021,Mun,Conservation,Conservation,Conservation,914,697,,822
+K,2021,Mun,Conservation,Conservation,Conservation,1015,588,,694
+K,2021,Mun,Conservation,Conservation,Conservation,263,931,,1099
+K,2021,Mun,Conservation,Conservation,Conservation,450,324,,382
+K,2021,Mun,Conservation,Conservation,Conservation,1801,473,,558
+K,2021,Mun,Conservation,Conservation,Conservation,12,5140,,6065
+K,2021,Mun,Conservation,Conservation,Conservation,271,582,,687
+K,2021,Mun,Conservation,Conservation,Conservation,60,2030,,2395
+K,2021,Irr,Expand GW,Groundwater,GW,8050,178,,210
+K,2021,Irr,Expand GW,Groundwater,GW,300,430,,507
+K,2021,Irr,Expand GW,Groundwater,GW,300,403,,476
+K,2021,Irr,Expand GW,Groundwater,GW,5600,174,,205
+K,2021,Mun,Conservation,Conservation,Conservation,54,516,,609
+K,2021,Min,Expand GW,Groundwater,GW,1000,581,,686
+K,2021,Min,Expand GW,Groundwater,GW,600,373,,440
+K,2021,Mun,Conservation,Conservation,Conservation,789,560,,661
+K,2021,Mun,Conservation,Conservation,Conservation,674,1607,,1896
+K,2021,Mun,Conservation,Conservation,Conservation,69,974,,1149
+K,2021,Mun,Conservation,Conservation,Conservation,116,678,,800
+K,2021,Mun,Conservation,Conservation,Conservation,319,750,,885
+K,2021,Mun,Conservation,Conservation,Conservation,378,623,,735
+K,2021,Mun,Conservation,Conservation,Conservation,235,828,,977
+K,2021,Mun,Conservation,Conservation,Conservation,200,365,,431
+K,2021,Mun,Conservation,Conservation,Conservation,65,1402,,1654
+K,2021,Mun,Conservation,Conservation,Conservation,59,1736,,2048
+K,2021,Mun,Conservation,Conservation,Conservation,183,369,,435
+K,2021,Mun,Conservation,Conservation,Conservation,27,925,,1092
+K,2021,Mun,Conservation,Conservation,Conservation,731,399,,471
+K,2021,Mun,Conservation,Conservation,Conservation,1440,389,,459
+K,2021,Mun,Conservation,Conservation,Conservation,3658,549,,648
+K,2021,Mun,Conservation,Conservation,Conservation,43,2129,,2512
+K,2021,Mun,Conservation,Conservation,Conservation,146,300,,354
+K,2021,Mun,Conservation,Conservation,Conservation,190,400,,472
+K,2021,Mun,Conservation,Conservation,Conservation,146,544,,642
+K,2021,Mun,Conservation,Conservation,Conservation,152,849,,1002
+K,2021,Mun,Conservation,Conservation,Conservation,5460,401,,473
+K,2021,Mun,Conservation,Conservation,Conservation,122,2655,,3133
+K,2021,Mun,Conservation,Conservation,Conservation,96,1318,,1555
+K,2021,Mun,Conservation,Conservation,Conservation,13,2060,,2431
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,4321,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,12423,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,58,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,130,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,849,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,68,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,606,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,89,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,63,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,85,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,813,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,362,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,13,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,20,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,393,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,11,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,169,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,89,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,68,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,398,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,98,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,834,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,92,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,156,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,99,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,155,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,11,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,53,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,31,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,43,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,206,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,239,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,17,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,38,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,7,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,5,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,972,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,73,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,190,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,30,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,155,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,69,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,535,66,,78
+K,2021,Power_Steam_Elec,Austin_return_flows,Return_flows,SW,4300,145,,171
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,14,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,19,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,17,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,72,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,38,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,70,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,114,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,76,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,41,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,576,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,228,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,87,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,150,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,66,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,42,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,51,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,226,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,384,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,430,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,645,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,48,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,144,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,183,66,,78
+K,2021,Power_Steam_Elec,Austin_return_flows,Return_flows,SW,11984,119,,140
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,302,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,799,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,772,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,24,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,113,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,40,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,25,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,53,66,,78
+K,2021,Power_Steam_Elec,Blend brakish water ,Blend brakish water ,SW,3000,0,,0
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,23,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,34,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,4423,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,31,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,52,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,179,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,99,66,,78
+K,2021,Power_Steam_Elec,Conservation,Conservation,Conservation,82,262,,309
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,162,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,130,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,83,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,137,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,343,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,75,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,172,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,20,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,12,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,49,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,364,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,748,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,1882,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,385,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,60,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,77,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,62,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,76,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,69,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,2215,66,,78
+K,2021,Power_Steam_Elec,Conservation,Conservation,Conservation,720,262,,309
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,343,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,81,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,19,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,18,66,,78
+K,2021,Mun,Demand_reduction,Drought management strategies,Conservation,560,66,,78
+K,2021,Mun,Desal,Desal,Treatment,500,1951,,2302
+K,2021,Mun,Develop GW,Groundwater,GW,400,1693,,1998
+K,2021,Mun,Develop GW,Groundwater,GW,100,3830,,4519
+K,2021,Mun,Develop GW,Groundwater,GW,100,3960,,4673
+K,2021,Mun,Develop GW,Groundwater,GW,700,1887,,2227
+K,2021,Power_Steam_Elec,Conservation,Conservation,Conservation,99,262,,309
+K,2021,Mun,Develop GW,Groundwater,GW,300,2063,,2434
+K,2021,Mun,Develop GW,Groundwater,GW,100,3830,,4519
+K,2021,Mun,Direct_nonpotable_reuse,Reuse,Reuse,5400,2534,,2990
+K,2021,Mun,Direct_nonpotable_reuse,Reuse,Reuse,14583,995,,1174
+K,2021,Mun,Direct_nonpotable_reuse,Reuse,Reuse,8330,366,,432
+K,2021,Mun,Direct_nonpotable_reuse,Reuse,Reuse,146,705,,832
+K,2021,Mun,Direct_nonpotable_reuse,Reuse,Reuse,520,0,,0
+K,2021,Mun,Direct_nonpotable_reuse,Reuse,Reuse,531,251,,296
+K,2021,Mun,Direct_nonpotable_reuse,Reuse,Reuse,132,5977,,7053
+K,2021,Mun,Direct_nonpotable_reuse,Reuse,Reuse,154,669,,789
+K,2021,Mun,Direct_nonpotable_reuse,Reuse,Reuse,448,140,,165
+K,2021,Mun,Direct_nonpotable_reuse,Reuse,Reuse,900,306,,361
+K,2021,Mun,Direct_nonpotable_reuse,Reuse,Reuse,300,296,,349
+K,2021,Mun,Direct_nonpotable_reuse,Reuse,Reuse,510,1410,,1664
+K,2021,Mun,Direct_nonpotable_reuse,Reuse,Reuse,224,212,,250
+K,2021,Power_Steam_Elec,Direct_nonpotable_reuse,Reuse,Reuse,1750,995,,1174
+K,2021,Mun,Direct_potable_reuse,Reuse,Reuse,2240,1440,,1699
+K,2021,Mun,Direct_potable_reuse,Reuse,Reuse,560,2582,,3047
+K,2021,Mun,Direct_potable_reuse,Reuse,Reuse,280,3764,,4442
+K,2021,Mun,Direct_potable_reuse,Reuse,Reuse,336,2893,,3414
+K,2021,Mun,Direct_reuse ,Reuse,Reuse,75,0,,0
+K,2021,Mun,Expand GW,Groundwater,GW,550,1001,,1181
+K,2021,Mun,Expand GW,Groundwater,GW,75,53,,63
+K,2021,Mun,Expand GW,Groundwater,GW,2000,1235,,1457
+K,2021,Mun,Expand GW,Groundwater,GW,1067,200,,236
+K,2021,Mun,Expand GW,Groundwater,GW,762,1430,,1687
+K,2021,Mun,Expand GW,Groundwater,GW,133,1218,,1437
+K,2021,Mun,Expand GW,Groundwater,GW,41,49,,58
+K,2021,Mun,Expand GW,Groundwater,GW,145,1127,,1330
+K,2021,Mun,Expand GW,Groundwater,GW,300,1023,,1207
+K,2021,Mun,Expand GW,Groundwater,GW,100,70,,83
+K,2021,Power_Steam_Elec,Return_flows,Return_flows,SW,3000,149,,176
+K,2021,Mun,Expand GW,Groundwater,GW,20,50,,59
+K,2021,Mun,Expand GW,Groundwater,GW,50,120,,142
+K,2021,Mun,Expand GW,Groundwater,GW,3000,272,,321
+K,2021,Mun,Operations_SW,SW Operations,SW,1250,436,,514
+K,2021,Mun,Operations_SW,SW Operations,SW,3000,36,,42
+K,2021,Mun,Rainwater_harvesting,Rain harvesting,Rain,184,645,,761
+K,2021,Mun,Rainwater_harvesting,Rain harvesting,Rain,2890,1165,,1375
+K,2021,Mun,Rainwater_harvesting,Rain harvesting,Rain,31,24962,,29455
+K,2021,Mun,Rainwater_harvesting,Rain harvesting,Rain,57,24961,,29454
+K,2021,Mun,Reservoir_new,Reservoir,SW,2000,719,,848
+K,2021,Mun,Reservoir_new,Reservoir,SW,5397,779,,919
+F,2021,Irr,Subordination,Subordination,SW,162,0,0,nan
+F,2021,Irr,Subordination,Subordination,SW,2,0,0,nan
+F,2021,Manufacturing,Subordination,Subordination,SW,199,0,0,nan
+F,2021,Power_Steam_Elec,Reuse,Reuse,Reuse,500,1428,212,1685
+K,2021,Mun,Reservoir_new,Reservoir,SW,1000,145,,171
+K,2021,Mun,Reservoir_new,Reservoir,SW,600,145,,171
+F,2021,Manufacturing,Subordination,Subordination,SW,153,0,0,nan
+F,2021,Power_Steam_Elec,Subordination,Subordination,SW,114,0,0,nan
+K,2021,Mun,Reservoir_new,Reservoir,SW,2600,145,,171
+K,2021,Mun,Reservoir_new,Reservoir,SW,4000,1436,,1694
+K,2021,Mun,Reservoir_new,Reservoir,SW,770,145,,171
+F,2021,Irr,Subordination,Subordination,SW,400,0,0,nan
+K,2021,Mun,Reservoir_new,Reservoir,SW,1100,145,,171
+K,2021,Mun,Reservoir_new,Reservoir,SW,1300,145,,171
+K,2021,Mun,Reservoir_new,Reservoir,SW,250,145,,171
+K,2021,Mun,Reservoir_new,Reservoir,SW,300,145,,171
+K,2021,Mun,Reservoir_new,Reservoir,SW,2300,145,,171
+K,2021,Mun,Reservoir_new,Reservoir,SW,1400,145,,171
+K,2021,Mun,Reservoir_new,Reservoir,SW,4600,329,,388
+K,2021,Mun,Reservoir_new,Reservoir,SW,400,145,,171
+K,2021,Mun,Return_flows,Return_flows,SW,6000,145,,171
+F,2021,Manufacturing,Subordination,Subordination,SW,29,0,0,nan
+K,2021,Mun,Return_flows,Return_flows,SW,1000,145,,171
+F,2021,Irr,Subordination,Subordination,SW,537,0,0,nan
+K,2021,Mun,Reuse_indirect,Reuse,Reuse,14000,457,,539
+K,2021,Mun,SW,Infrastructure,SW,3000,213,,251
+K,2021,Mun,Water_purchase,SW contract,SW,90,1629,,1922
+K,2021,Mun,Water_purchase,SW contract,SW,335,1222,,1442
+K,2021,Mun,Water_purchase,SW contract,SW,35,1222,,1442
+K,2021,Mun,Water_purchase,SW contract,SW,500,1167,,1377
+K,2021,Mun,Develop GW,Groundwater,GW,130,721,,851
+F,2021,Manufacturing,Subordination,Subordination,SW,500,0,0,nan
+K,2021,Mun,Develop GW,Groundwater,GW,100,721,,851
+F,2021,Power_Steam_Elec,Subordination,Subordination,SW,22,0,0,nan
+O,2021,Mun,ASR,ASR,GW,200,159,,188
+O,2021,Mun,ASR,ASR,GW,100,159,,188
+O,2021,Mun,Conservation,Conservation,Conservation,30,326,,385
+O,2021,Mun,Conservation,Conservation,Conservation,16,347,,409
+O,2021,Mun,Conservation,Conservation,Conservation,49,326,,385
+O,2021,Mun,Conservation,Conservation,Conservation,24,326,,385
+O,2021,Mun,Conservation,Conservation,Conservation,10,347,,409
+O,2021,Mun,Conservation,Conservation,Conservation,10,347,,409
+O,2021,Mun,Conservation,Conservation,Conservation,115,326,,385
+O,2021,Mun,Develop GW,Groundwater,GW,160,59,,70
+O,2021,Mun,Develop GW,Groundwater,GW,1930,56,,66
+O,2021,Mun,Develop GW,Groundwater,GW,1725,2135,395,2519
+O,2021,Mun,Expand GW,Groundwater,GW,314,299,,353
+O,2021,Mun,Expand GW,Groundwater,GW,75,123,,145
+O,2021,Mun,Expand GW,Groundwater,GW,118,123,,145
+O,2021,Mun,Infrastructure,Infrastructure,Infrastructure ,708,299,,353
