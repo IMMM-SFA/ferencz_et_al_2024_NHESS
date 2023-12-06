@@ -11,10 +11,10 @@ from matplotlib.ticker import (MultipleLocator, AutoMinorLocator)
 import numpy as np 
 import os
 
-os.chdir("C:/Users/fere556/OneDrive - PNNL/Documents/ERCOT/Retrospective_analysis/Austin_water")
+os.chdir("Path to data")
 
 
-AW_df = pd.read_csv('Water_supply_data.csv', header = 'infer')
+AW_df = pd.read_csv('Austin_Water_supply_data.csv', header = 'infer')
 
 plt.rcParams['font.size'] = 14
 
