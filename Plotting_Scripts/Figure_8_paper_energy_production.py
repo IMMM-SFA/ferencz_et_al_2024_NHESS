@@ -13,7 +13,7 @@ import matplotlib as mpl
 import matplotlib.pyplot as plt
 from matplotlib.ticker import (MultipleLocator, AutoMinorLocator)
 
-os.chdir("C:/Users/fere556/OneDrive - PNNL/Documents/ERCOT/Retrospective_analysis/Data")
+os.chdir("Path to Data")
 power_df = pd.read_csv("Basin_Power_Plants_EIA.csv", na_values = -999)
 power_df.fillna(0, inplace = True)
 
