@@ -1,4 +1,4 @@
-# ferencz_et_al_2023_tbd
+# ferencz_et_al_2023_NHESS
 
 ## Multisectoral Impacts of an Exceptional 21st Century Drought: Case Study of the 2008-2015 Drought in Central Texas
 Stephen B. Ferencz <sup>1</sup>, Sean Turner <sup>1</sup>, Ning Sun <sup>1</sup>, Brian Smith <sup>2</sup>, Jennie Rice <sup>1</sup> 
