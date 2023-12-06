@@ -12,7 +12,7 @@ from matplotlib.ticker import (MultipleLocator, AutoMinorLocator)
 import os 
 import seaborn as sns
 
-os.chdir("C:/Users/fere556/OneDrive - PNNL/Documents/ERCOT/Retrospective_analysis/Data")
+os.chdir("Path to Data")
 
 wms_df = pd.read_csv('WMS_costs_backup_v3.csv')
 
