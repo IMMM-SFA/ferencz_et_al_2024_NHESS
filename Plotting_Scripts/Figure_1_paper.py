@@ -16,7 +16,7 @@ import datetime
 import seaborn as sns
 from matplotlib.ticker import (MultipleLocator, AutoMinorLocator)
 
-os.chdir('C:/Users/fere556/OneDrive - PNNL/Documents/ERCOT/Retrospective_analysis\Data')
+os.chdir('Path to data')
 
 region_k_res = pd.read_csv('Region_K_per_capita_storage.csv')
 region_F_res = pd.read_csv('Region_F_reservoir_storage.csv')
