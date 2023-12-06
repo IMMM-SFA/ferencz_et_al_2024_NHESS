@@ -13,7 +13,6 @@ import os
 
 os.chdir("Path to data")
 
-
 AW_df = pd.read_csv('Austin_Water_supply_data.csv', header = 'infer')
 
 plt.rcParams['font.size'] = 14
