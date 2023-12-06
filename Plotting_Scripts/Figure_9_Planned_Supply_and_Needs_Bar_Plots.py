@@ -13,7 +13,7 @@ import pandas as pd
 from matplotlib.ticker import (MultipleLocator, AutoMinorLocator)
 
 
-os.chdir("C:/Users/fere556/OneDrive - PNNL/Documents/ERCOT/Retrospective_analysis/Data")
+os.chdir("Path to Data")
 wms_data = pd.read_csv('Planned_supply_and_needs_bar_plot_data_final.csv')
 
 #%% Water use restrictions 
