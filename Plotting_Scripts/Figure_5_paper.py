@@ -12,7 +12,7 @@ import matplotlib as mpl
 import matplotlib.pyplot as plt
 from matplotlib.ticker import (MultipleLocator, AutoMinorLocator)
 
-os.chdir("C:/Users/fere556/OneDrive - PNNL/Documents/ERCOT/Retrospective_analysis/Data/Agg_Data")
+os.chdir("Path to Data")
 
 Prod_F = pd.read_csv("Annual_crop_production_Region_F.csv", thousands=',') 
 Prod_K = pd.read_csv("Annual_crop_production_Region_K.csv", thousands=',')
