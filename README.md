@@ -34,12 +34,12 @@ Maps were made using QGIS https://www.qgis.org/en/site/.
 1. Download files in 'Data' folder.
 2. Download plotting scripts in 'Plotting Scripts' folder. 
 
-- Figure 1: Plotting Scripts folder (Figure_1_paper.py), map made in GIS
+- Figure 1: Plotting Scripts folder (Figure_1_paper.py), map made in GIS, Figure formatted and annotated in Inkscape
 - Figure 2: Made in Powerpoint
 - Figure 3: Plotting Scripts folder (Figure_3_and_4_paper.py)
 - Figure 4: Plotting Scripts folder (Figure_3_and_4_paper.py)
 - Figure 5: Plotting Scripts folder (Figure_5_paper.py)
-- Figure 6: Plotting Scripts folder (Figure_6_paper.py), Map made in GIS
+- Figure 6: Plotting Scripts folder (Figure_6_paper.py), Map made in GIS and Annotated in Inkscape
 - Figure 7: Plotting Scripts folder 
 - Figure 8: Plotting Scripts folder 
 - Figure 9: 
