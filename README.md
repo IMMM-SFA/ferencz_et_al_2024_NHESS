@@ -7,7 +7,7 @@ Stephen B. Ferencz <sup>1</sup>, Sean Turner <sup>1</sup>, Ning Sun <sup>1</sup>
 
 Drought has long posed an existential threat to society. Engineering and technological advancements have enabled the development of complex, interconnected water supply systems that buffer societies from the impacts of drought, enabling growth and prosperity. However, increasing water demand from population growth and economic development, combined with more extreme and prolonged droughts due to climate change, pose significant challenges for governments in the 21st century. Improved understanding of the multisectoral impacts and adaptive responses resulting from extreme drought can aid in adaptive planning and highlight key processes in modelling drought impacts. The record drought spanning 2008 – 2015 in the Colorado Basin in the state of Texas, United States serves as an outstanding illustration to assess multisectoral impacts and responses to severe, multi-year drought. The basin faces similar water security challenges as across the Western U.S., such as: groundwater depletion and sustainability, resource competition between agriculture and growing urban populations, limited options for additional reservoir expansion, and the heightened risk of more severe and frequent droughts due to climate change. By analysing rich, high-quality data sourced from nine different local, state, and federal sources, we demonstrate that characterizing regional multisector dynamics is crucial to predicting and understanding future vulnerability and possible approaches to reduce impacts to human and natural systems in the face of extreme drought conditions. This review reveals that, despite the severe hydrometeorological conditions of the drought, the region's advanced economy and existing water infrastructure effectively mitigated economic and societal impacts. 
 
-## Data 
+## Data Sources 
 - Public Water Supply Restrictions. https://www.tceq.texas.gov/drinkingwater/trot/droughtw.html
 - Groundwater well installation data. Texas Water Development Board. https://www3.twdb.texas.gov/apps/reports/SDR/WellRpts_County_Use
 - Sectoral water use estimates. Texas Water Development Board. https://www.twdb.texas.gov/waterplanning/waterusesurvey/estimates/index.asp
@@ -24,23 +24,24 @@ Drought has long posed an existential threat to society. Engineering and technol
 - Groundwater well hydrographs. https://www3.twdb.texas.gov/apps/reports/GWDB/WaterLevelsByWell
 - GIS shapefiles for basin and water planning region boundaries, reservoirs: https://www.twdb.texas.gov/mapping/gisdata.asp
 - GIS shapefiles for stream network: https://www.epa.gov/waterdata/nhdplus-texas-data-vector-processing-unit-12
-  
+
+## All data downloaded from Data Sources and used for plotting and analysis are in the Data folder
 ## Software 
-This study processes and plots data using Python packages that come with the standard Python installation (numpy, matplotlib, pandas). 
-Maps were made in QGIS https://www.qgis.org/en/site/. 
+This study processes and plots data using Python packages that come with the standard Python installation (numpy, matplotlib, pandas) and the Seaborn package. 
+Maps were made using QGIS https://www.qgis.org/en/site/. 
 
 ## Reproduce my Figures 
 1. Download files in 'Data' folder.
 2. Download plotting scripts in 'Plotting Scripts' folder. 
 
-- Figure 1: Plotting Scripts folder (Figure_1_paper.py)
+- Figure 1: Plotting Scripts folder (Figure_1_paper.py), map made in GIS
 - Figure 2: Made in Powerpoint
 - Figure 3: Plotting Scripts folder (Figure_3_and_4_paper.py)
 - Figure 4: Plotting Scripts folder (Figure_3_and_4_paper.py)
-- Figure 5:  Plotting Scripts folder (Figure_5_paper.py)
-- Figure 6:
-- Figure 7:
-- Figure 8:
+- Figure 5: Plotting Scripts folder (Figure_5_paper.py)
+- Figure 6: Plotting Scripts folder (Figure_6_paper.py), Map made in GIS
+- Figure 7: Plotting Scripts folder 
+- Figure 8: Plotting Scripts folder 
 - Figure 9: 
 
 
