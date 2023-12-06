@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 from matplotlib.ticker import (MultipleLocator, AutoMinorLocator)
 import os 
 
-os.chdir("C:/Users/fere556/OneDrive - PNNL/Documents/ERCOT/Retrospective_analysis/Data")
+os.chdir("path to data")
 
 County_water_use = pd.read_csv('SumFinal_CountyReport_2000_2020.csv', 
                                   thousands = ',')
