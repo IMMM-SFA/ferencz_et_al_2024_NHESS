@@ -33,11 +33,11 @@ Maps were made in QGIS https://www.qgis.org/en/site/.
 1. Download files in 'Data' folder.
 2. Download plotting scripts in 'Plotting Scripts' folder. 
 
-- Figure 1: Plotting script folder (Figure_1_paper.py)
+- Figure 1: Plotting Scripts folder (Figure_1_paper.py)
 - Figure 2: Made in Powerpoint
-- Figure 3: Plotting script folder (Figure_3_and_4_paper.py)
-- Figure 4: Plotting script folder (Figure_3_and_4_paper.py)
-- Figure 5: 
+- Figure 3: Plotting Scripts folder (Figure_3_and_4_paper.py)
+- Figure 4: Plotting Scripts folder (Figure_3_and_4_paper.py)
+- Figure 5:  Plotting Scripts folder (Figure_5_paper.py)
 - Figure 6:
 - Figure 7:
 - Figure 8:
