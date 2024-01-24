@@ -1,4 +1,4 @@
-# ferencz_et_al_2023_NHESS
+# ferencz_et_al_2024_NHESS
 
 ## Multisectoral analysis of drought impacts and management responses to the 2008-2015 record drought in the Colorado Basin, Texas: A blueprint for regional multisectoral drought impact assessment 
 Stephen B. Ferencz <sup>1</sup>, Sean Turner <sup>1</sup>, Ning Sun <sup>1</sup>, Brian Smith <sup>2</sup>, Jennie Rice <sup>1</sup> 
