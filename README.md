@@ -41,10 +41,9 @@ Maps were made using QGIS https://www.qgis.org/en/site/.
 - Figure 5: Plotting Scripts folder (Figure_5_paper.py), county crop maps made in GIS 
 - Figure 6: Plotting Scripts folder (Figure_6_paper.py), Map made in GIS and Annotated in Inkscape
 - Figure 7: Plotting scripts folder (Figure_7_paper)
-- Figure 8: Plotting scripts folder (Figure_8_paper) 
+- Figure 8: Plotting scripts folder (Figure_8_paper)
 - Figure 9: Plotting scripts folder (Figure_9_paper)
 - Figure 10: Plotting scripts folder (Figure_10_paper)
-- Figure 11: Plotting scripts folder (Figure_11_paper)
 - Figure 11: Made in Inscape
 
 
