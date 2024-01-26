@@ -45,6 +45,7 @@ Maps were made using QGIS https://www.qgis.org/en/site/.
 - Figure 9: Plotting scripts folder (Figure_9_paper)
 - Figure 10: Plotting scripts folder (Figure_10_paper)
 - Figure 11: Plotting scripts folder (Figure_11_paper)
+- Figure 11: Made in Inscape
 
 
 
