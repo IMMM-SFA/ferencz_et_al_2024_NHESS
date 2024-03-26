@@ -1,6 +1,6 @@
 # ferencz_et_al_2024_NHESS
 
-## Multisectoral analysis of drought impacts and management responses to the 2008-2015 record drought in the Colorado Basin, Texas: A blueprint for regional multisectoral drought impact assessment 
+## Multisectoral analysis of drought impacts and management responses to the 2008-2015 record drought in the Colorado Basin, Texas
 Stephen B. Ferencz <sup>1</sup>, Sean Turner <sup>1</sup>, Ning Sun <sup>1</sup>, Brian Smith <sup>2</sup>, Jennie Rice <sup>1</sup> 
 1. Pacific Northwest National Laboratory, Richland, WA, USA
 2. Caves and Karst, LLC., Austin, TX, USA
