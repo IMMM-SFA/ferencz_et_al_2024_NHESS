@@ -26,6 +26,7 @@ Drought has long posed an existential threat to society. Engineering and technol
 - GIS shapefiles for stream network: https://www.epa.gov/waterdata/nhdplus-texas-data-vector-processing-unit-12
 
 ## All data downloaded from Data Sources and used for plotting and analysis are in the Data folder
+
 ## Software 
 This study processes and plots data using Python packages that come with the standard Python installation (numpy, matplotlib, pandas) and the Seaborn package. 
 Maps were made using QGIS https://www.qgis.org/en/site/. 
@@ -44,7 +45,7 @@ Maps were made using QGIS https://www.qgis.org/en/site/.
 - Figure 8: Plotting scripts folder (Figure_8_paper)
 - Figure 9: Plotting scripts folder (Figure_9_paper)
 - Figure 10: Plotting scripts folder (Figure_10_paper)
-- Figure 11: Made in Inscape
+- Figure 11: Made in Inkscape
 
 
 
