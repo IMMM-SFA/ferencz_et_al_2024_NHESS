@@ -39,7 +39,7 @@ Maps were made using QGIS https://www.qgis.org/en/site/.
 - Figure 2: Made in Powerpoint
 - Figure 3: Plotting Scripts folder (Figure_3_and_4_paper.py)
 - Figure 4: Plotting Scripts folder (Figure_3_and_4_paper.py)
-- Figure 5: Plotting Scripts folder (Figure_5_paper.py), county crop maps made in GIS 
+- Figure 5: Plotting Scripts folder (Figure_5_paper.py), county crop maps made in GIS. Processing script (Fig_5_USDA_data_processing.py)to produce the aggregated data for Figure 5 and raw USDA data located in the Data folder. 
 - Figure 6: Plotting Scripts folder (Figure_6_paper.py), Map made in GIS and Annotated in Inkscape
 - Figure 7: Plotting scripts folder (Figure_7_paper)
 - Figure 8: Plotting scripts folder (Figure_8_paper)
